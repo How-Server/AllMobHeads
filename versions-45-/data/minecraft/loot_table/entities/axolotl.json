@@ -39,7 +39,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.axolotl.death",
-                    "minecraft:custom_name": "\"Axolotl Lucy\"",
+                    "minecraft:custom_name": "\"粉紅色蠑螈\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -76,7 +76,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.axolotl.death",
-                    "minecraft:custom_name": "\"Axolotl Wild\"",
+                    "minecraft:custom_name": "\"野生蠑螈\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -113,7 +113,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.axolotl.death",
-                    "minecraft:custom_name": "\"Axolotl Gold\"",
+                    "minecraft:custom_name": "\"金色蠑螈\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -150,7 +150,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.axolotl.death",
-                    "minecraft:custom_name": "\"Axolotl Cyan\"",
+                    "minecraft:custom_name": "\"青色蠑螈\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -188,7 +188,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.axolotl.death",
-                    "minecraft:custom_name": "\"Axolotl Blue\"",
+                    "minecraft:custom_name": "\"藍色蠑螈\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [

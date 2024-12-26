@@ -22,7 +22,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.vex.death",
-                "minecraft:custom_name": "\"Vex\"",
+                "minecraft:custom_name": "\"惱鬼\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [
@@ -51,7 +51,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.vex.charge",
-                "minecraft:custom_name": "\"Charging Vex\"",
+                "minecraft:custom_name": "\"生氣惱鬼\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

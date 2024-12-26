@@ -37,7 +37,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.strider.happy",
-                "minecraft:custom_name": "\"Strider\"",
+                "minecraft:custom_name": "\"熾足獸\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [
@@ -66,7 +66,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.strider.retreat",
-                "minecraft:custom_name": "\"Cold Strider\"",
+                "minecraft:custom_name": "\"發抖熾足獸\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

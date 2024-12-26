@@ -22,7 +22,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.tropical_fish.hurt",
-                "minecraft:custom_name": "\"Tropical Fish\"",
+                "minecraft:custom_name": "\"熱帶魚\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

@@ -39,7 +39,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.llama.ambient",
-                    "minecraft:custom_name": "\"Creamy Llama\"",
+                    "minecraft:custom_name": "\"淡栗色羊駝\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -76,7 +76,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.llama.angry",
-                    "minecraft:custom_name": "\"White Llama\"",
+                    "minecraft:custom_name": "\"白羊駝\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -113,7 +113,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.llama.death",
-                    "minecraft:custom_name": "\"Brown Llama\"",
+                    "minecraft:custom_name": "\"棕色羊駝\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -150,7 +150,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.llama.spit",
-                    "minecraft:custom_name": "\"Gray Llama\"",
+                    "minecraft:custom_name": "\"灰羊駝\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [

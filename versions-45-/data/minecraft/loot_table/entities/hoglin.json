@@ -22,7 +22,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.hoglin.angry",
-                "minecraft:custom_name": "\"Hoglin\"",
+                "minecraft:custom_name": "\"豬布獸\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

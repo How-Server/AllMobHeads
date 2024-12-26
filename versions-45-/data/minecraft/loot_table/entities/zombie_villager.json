@@ -39,7 +39,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Armorer Zombie Villager\"",
+                    "minecraft:custom_name": "\"製甲師殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -76,7 +76,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Desert Armorer Zombie Villager\"",
+                    "minecraft:custom_name": "\"沙漠製甲師殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -113,7 +113,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Jungle Armorer Zombie Villager\"",
+                    "minecraft:custom_name": "\"叢林製甲師殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -150,7 +150,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Savanna Armorer Zombie Villager\"",
+                    "minecraft:custom_name": "\"莽原製甲師殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -187,7 +187,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Snow Armorer Zombie Villager\"",
+                    "minecraft:custom_name": "\"雪地製甲師殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -224,7 +224,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Swamp Armorer Zombie Villager\"",
+                    "minecraft:custom_name": "\"沼澤製甲師殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -261,7 +261,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Taiga Armorer Zombie Villager\"",
+                    "minecraft:custom_name": "\"針葉林製甲師殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -298,7 +298,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Butcher Zombie Villager\"",
+                    "minecraft:custom_name": "\"屠夫殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -335,7 +335,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Desert Butcher Zombie Villager\"",
+                    "minecraft:custom_name": "\"沙漠屠夫殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -372,7 +372,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Jungle Butcher Zombie Villager\"",
+                    "minecraft:custom_name": "\"叢林屠夫殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -409,7 +409,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Savanna Butcher Zombie Villager\"",
+                    "minecraft:custom_name": "\"莽原納屠夫殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -446,7 +446,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Snow Butcher Zombie Villager\"",
+                    "minecraft:custom_name": "\"雪地屠夫殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -483,7 +483,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Swamp Butcher Zombie Villager\"",
+                    "minecraft:custom_name": "\"沼澤屠夫殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -520,7 +520,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Taiga Butcher Zombie Villager\"",
+                    "minecraft:custom_name": "\"針葉林屠夫殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -557,7 +557,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Cartographer Zombie Villager\"",
+                    "minecraft:custom_name": "\"製圖師殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -594,7 +594,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Desert Cartographer Zombie Villager\"",
+                    "minecraft:custom_name": "\"沙漠製圖師殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -631,7 +631,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Jungle Cartographer Zombie Villager\"",
+                    "minecraft:custom_name": "\"叢林製圖師殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -668,7 +668,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Savanna Cartographer Zombie Villager\"",
+                    "minecraft:custom_name": "\"草原製圖師殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -705,7 +705,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Snow Cartographer Zombie Villager\"",
+                    "minecraft:custom_name": "\"雪地製圖師殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -742,7 +742,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Swamp Cartographer Zombie Villager\"",
+                    "minecraft:custom_name": "\"沼澤製圖師殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -779,7 +779,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Taiga Cartographer Zombie Villager\"",
+                    "minecraft:custom_name": "\"針葉林製圖師殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -816,7 +816,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Cleric Zombie Villager\"",
+                    "minecraft:custom_name": "\"神職人員殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -853,7 +853,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Desert Cleric Zombie Villager\"",
+                    "minecraft:custom_name": "\"沙漠神職人員殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -890,7 +890,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Jungle Cleric Zombie Villager\"",
+                    "minecraft:custom_name": "\"叢林神職人員殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -927,7 +927,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Savanna Cleric Zombie Villager\"",
+                    "minecraft:custom_name": "\"莽原神職人員殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -964,7 +964,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Snow Cleric Zombie Villager\"",
+                    "minecraft:custom_name": "\"雪地神職人員殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1001,7 +1001,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Swamp Cleric Zombie Villager\"",
+                    "minecraft:custom_name": "\"沼澤神職人員殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1038,7 +1038,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Taiga Cleric Zombie Villager\"",
+                    "minecraft:custom_name": "\"針葉林神職人員殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1075,7 +1075,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Farmer Zombie Villager\"",
+                    "minecraft:custom_name": "\"農夫殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1112,7 +1112,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Desert Farmer Zombie Villager\"",
+                    "minecraft:custom_name": "\"沙漠農夫殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1149,7 +1149,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Jungle Farmer Zombie Villager\"",
+                    "minecraft:custom_name": "\"叢林農夫殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1186,7 +1186,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Savanna Farmer Zombie Villager\"",
+                    "minecraft:custom_name": "\"莽原農夫殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1223,7 +1223,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Snow Farmer Zombie Villager\"",
+                    "minecraft:custom_name": "\"雪地農夫殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1260,7 +1260,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Swamp Farmer Zombie Villager\"",
+                    "minecraft:custom_name": "\"沼澤農夫殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1297,7 +1297,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Taiga Farmer Zombie Villager\"",
+                    "minecraft:custom_name": "\"針葉林農夫殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1334,7 +1334,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Fisherman Zombie Villager\"",
+                    "minecraft:custom_name": "\"漁夫殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1371,7 +1371,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Desert Fisherman Zombie Villager\"",
+                    "minecraft:custom_name": "\"沙漠漁夫殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1408,7 +1408,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Jungle Fisherman Zombie Villager\"",
+                    "minecraft:custom_name": "\"叢林漁夫殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1445,7 +1445,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Savanna Fisherman Zombie Villager\"",
+                    "minecraft:custom_name": "\"莽原漁夫殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1482,7 +1482,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Snow Fisherman Zombie Villager\"",
+                    "minecraft:custom_name": "\"雪地漁夫殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1519,7 +1519,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Swamp Fisherman Zombie Villager\"",
+                    "minecraft:custom_name": "\"沼澤漁夫殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1556,7 +1556,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Taiga Fisherman Zombie Villager\"",
+                    "minecraft:custom_name": "\"針葉林漁夫殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1593,7 +1593,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Fletcher Zombie Villager\"",
+                    "minecraft:custom_name": "\"製箭師殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1630,7 +1630,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Desert Fletcher Zombie Villager\"",
+                    "minecraft:custom_name": "\"沙漠製箭師殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1667,7 +1667,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Jungle Fletcher Zombie Villager\"",
+                    "minecraft:custom_name": "\"叢林製箭師殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1704,7 +1704,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Savanna Fletcher Zombie Villager\"",
+                    "minecraft:custom_name": "\"莽原製箭師殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1741,7 +1741,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Snow Fletcher Zombie Villager\"",
+                    "minecraft:custom_name": "\"雪地製箭師殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1778,7 +1778,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Swamp Fletcher Zombie Villager\"",
+                    "minecraft:custom_name": "\"沼澤製箭師殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1815,7 +1815,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Taiga Fletcher Zombie Villager\"",
+                    "minecraft:custom_name": "\"針葉林製箭師殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1852,7 +1852,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Leatherworker Zombie Villager\"",
+                    "minecraft:custom_name": "\"皮匠殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1889,7 +1889,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Desert Leatherworker Zombie Villager\"",
+                    "minecraft:custom_name": "\"沙漠皮匠殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1926,7 +1926,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Jungle Leatherworker Zombie Villager\"",
+                    "minecraft:custom_name": "\"叢林制皮匠殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1963,7 +1963,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Savanna Leatherworker Zombie Villager\"",
+                    "minecraft:custom_name": "\"莽原皮革工人殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2000,7 +2000,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Snow Leatherworker Zombie Villager\"",
+                    "minecraft:custom_name": "\"雪地皮匠殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2037,7 +2037,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Swamp Leatherworker Zombie Villager\"",
+                    "minecraft:custom_name": "\"沼澤皮匠殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2074,7 +2074,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Taiga Leatherworker Zombie Villager\"",
+                    "minecraft:custom_name": "\"針葉林皮匠殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2111,7 +2111,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Librarian Zombie Villager\"",
+                    "minecraft:custom_name": "\"圖書管理員殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2148,7 +2148,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Desert Librarian Zombie Villager\"",
+                    "minecraft:custom_name": "\"沙漠圖書管理員殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2185,7 +2185,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Jungle Librarian Zombie Villager\"",
+                    "minecraft:custom_name": "\"叢林圖書管理員殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2222,7 +2222,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Savanna Librarian Zombie Villager\"",
+                    "minecraft:custom_name": "\"莽原圖書管理員殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2259,7 +2259,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Snow Librarian Zombie Villager\"",
+                    "minecraft:custom_name": "\"雪地圖書管理員殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2296,7 +2296,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Swamp Librarian Zombie Villager\"",
+                    "minecraft:custom_name": "\"沼澤圖書管理員殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2333,7 +2333,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Taiga Librarian Zombie Villager\"",
+                    "minecraft:custom_name": "\"針葉林圖書管理員殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2370,7 +2370,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Mason Zombie Villager\"",
+                    "minecraft:custom_name": "\"石匠殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2407,7 +2407,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Desert Mason Zombie Villager\"",
+                    "minecraft:custom_name": "\"沙漠石匠殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2444,7 +2444,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Jungle Mason Zombie Villager\"",
+                    "minecraft:custom_name": "\"叢林石匠殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2481,7 +2481,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Savanna Mason Zombie Villager\"",
+                    "minecraft:custom_name": "\"莽原石匠殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2518,7 +2518,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Snow Mason Zombie Villager\"",
+                    "minecraft:custom_name": "\"雪地石匠殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2555,7 +2555,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Swamp Mason Zombie Villager\"",
+                    "minecraft:custom_name": "\"沼澤石匠殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2592,7 +2592,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Taiga Mason Zombie Villager\"",
+                    "minecraft:custom_name": "\"針葉林石匠殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2629,7 +2629,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Nitwit Zombie Villager\"",
+                    "minecraft:custom_name": "\"傻子殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2666,7 +2666,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Desert Nitwit Zombie Villager\"",
+                    "minecraft:custom_name": "\"沙漠傻子殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2703,7 +2703,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Jungle Nitwit Zombie Villager\"",
+                    "minecraft:custom_name": "\"叢林傻子殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2740,7 +2740,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Savanna Nitwit Zombie Villager\"",
+                    "minecraft:custom_name": "\"莽原傻子殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2777,7 +2777,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Snow Nitwit Zombie Villager\"",
+                    "minecraft:custom_name": "\"雪地傻子殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2814,7 +2814,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Swamp Nitwit Zombie Villager\"",
+                    "minecraft:custom_name": "\"沼澤傻子殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2851,7 +2851,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Taiga Nitwit Zombie Villager\"",
+                    "minecraft:custom_name": "\"針葉林傻子殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2888,7 +2888,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Zombie Villager\"",
+                    "minecraft:custom_name": "\"殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2925,7 +2925,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Desert Zombie Villager\"",
+                    "minecraft:custom_name": "\"沙漠殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2962,7 +2962,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Jungle Zombie Villager\"",
+                    "minecraft:custom_name": "\"叢林殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2999,7 +2999,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Savanna Zombie Villager\"",
+                    "minecraft:custom_name": "\"草原殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3036,7 +3036,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Snow Zombie Villager\"",
+                    "minecraft:custom_name": "\"雪地殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3073,7 +3073,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Swamp Zombie Villager\"",
+                    "minecraft:custom_name": "\"沼澤殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3110,7 +3110,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Taiga Zombie Villager\"",
+                    "minecraft:custom_name": "\"針葉林殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3147,7 +3147,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Shepherd Zombie Villager\"",
+                    "minecraft:custom_name": "\"牧羊人殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3184,7 +3184,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Desert Shepherd Zombie Villager\"",
+                    "minecraft:custom_name": "\"沙漠牧羊人殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3221,7 +3221,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Jungle Shepherd Zombie Villager\"",
+                    "minecraft:custom_name": "\"叢林牧羊人殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3258,7 +3258,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Savanna Shepherd Zombie Villager\"",
+                    "minecraft:custom_name": "\"莽原牧羊人殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3295,7 +3295,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Snow Shepherd Zombie Villager\"",
+                    "minecraft:custom_name": "\"雪地牧羊人殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3332,7 +3332,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Swamp Shepherd Zombie Villager\"",
+                    "minecraft:custom_name": "\"沼澤牧羊人殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3369,7 +3369,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Taiga Shepherd Zombie Villager\"",
+                    "minecraft:custom_name": "\"針葉林牧羊人殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3406,7 +3406,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Toolsmith Zombie Villager\"",
+                    "minecraft:custom_name": "\"工具匠殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3443,7 +3443,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Desert Toolsmith Zombie Villager\"",
+                    "minecraft:custom_name": "\"沙漠工具匠殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3480,7 +3480,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Jungle Toolsmith Zombie Villager\"",
+                    "minecraft:custom_name": "\"叢林工具匠殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3517,7 +3517,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Savanna Toolsmith Zombie Villager\"",
+                    "minecraft:custom_name": "\"莽原工具匠殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3554,7 +3554,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Snow Toolsmith Zombie Villager\"",
+                    "minecraft:custom_name": "\"雪地工具匠殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3591,7 +3591,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Swamp Toolsmith Zombie Villager\"",
+                    "minecraft:custom_name": "\"沼澤工具匠殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3628,7 +3628,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Taiga Toolsmith Zombie Villager\"",
+                    "minecraft:custom_name": "\"針葉林工具匠殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3665,7 +3665,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Weaponsmith Zombie Villager\"",
+                    "minecraft:custom_name": "\"武器匠殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3702,7 +3702,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Desert Weaponsmith Zombie Villager\"",
+                    "minecraft:custom_name": "\"沙漠武器匠殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3739,7 +3739,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Jungle Weaponsmith Zombie Villager\"",
+                    "minecraft:custom_name": "\"叢林武器匠殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3776,7 +3776,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Savanna Weaponsmith Zombie Villager\"",
+                    "minecraft:custom_name": "\"莽原武器匠殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3813,7 +3813,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Snow Weaponsmith Zombie Villager\"",
+                    "minecraft:custom_name": "\"雪地武器匠殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3850,7 +3850,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Swamp Weaponsmith Zombie Villager\"",
+                    "minecraft:custom_name": "\"沼澤武器匠殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3887,7 +3887,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient",
-                    "minecraft:custom_name": "\"Taiga Weaponsmith Zombie Villager\"",
+                    "minecraft:custom_name": "\"針葉林武器匠殭屍村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [

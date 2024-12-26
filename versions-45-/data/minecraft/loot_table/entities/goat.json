@@ -39,7 +39,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.goat.ambient",
-                    "minecraft:custom_name": "\"Goat\"",
+                    "minecraft:custom_name": "\"山羊\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [

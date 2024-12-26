@@ -22,7 +22,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.turtle.hurt",
-                "minecraft:custom_name": "\"Turtle\"",
+                "minecraft:custom_name": "\"龜\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

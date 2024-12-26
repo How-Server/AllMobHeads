@@ -13,7 +13,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.bee.loop",
-                "minecraft:custom_name": "\"Potato Bee\"",
+                "minecraft:custom_name": "\"馬鈴薯蜜蜂\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

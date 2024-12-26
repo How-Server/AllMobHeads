@@ -39,7 +39,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.horse.ambient",
-                    "minecraft:custom_name": "\"White Horse\"",
+                    "minecraft:custom_name": "\"白馬\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -109,7 +109,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.horse.angry",
-                    "minecraft:custom_name": "\"Creamy Horse\"",
+                    "minecraft:custom_name": "\"淡栗色馬\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -179,7 +179,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.horse.death",
-                    "minecraft:custom_name": "\"Chestnut Horse\"",
+                    "minecraft:custom_name": "\"深棗紅色馬\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -249,7 +249,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.horse.gallop",
-                    "minecraft:custom_name": "\"Brown Horse\"",
+                    "minecraft:custom_name": "\"棕色馬\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -319,7 +319,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.horse.hurt",
-                    "minecraft:custom_name": "\"Black Horse\"",
+                    "minecraft:custom_name": "\"黑馬\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -389,7 +389,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.horse.land",
-                    "minecraft:custom_name": "\"Gray Horse\"",
+                    "minecraft:custom_name": "\"灰馬\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -459,7 +459,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.horse.ambient",
-                    "minecraft:custom_name": "\"Dark Brown Horse\"",
+                    "minecraft:custom_name": "\"深褐色馬\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [

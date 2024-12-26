@@ -29,7 +29,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.shulker.death",
-                    "minecraft:custom_name": "\"Shulker\"",
+                    "minecraft:custom_name": "\"界伏蚌\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -76,7 +76,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.shulker.shoot",
-                    "minecraft:custom_name": "\"Red Shulker\"",
+                    "minecraft:custom_name": "\"紅色界伏蚌\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -123,7 +123,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.shulker.shoot",
-                    "minecraft:custom_name": "\"Orange Shulker\"",
+                    "minecraft:custom_name": "\"橘色界伏蚌\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -170,7 +170,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.shulker.death",
-                    "minecraft:custom_name": "\"Yellow Shulker\"",
+                    "minecraft:custom_name": "\"黃色界伏蚌\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -217,7 +217,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.shulker.death",
-                    "minecraft:custom_name": "\"Lime Shulker\"",
+                    "minecraft:custom_name": "\"淺綠色界伏蚌\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -264,7 +264,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.shulker.shoot",
-                    "minecraft:custom_name": "\"Green Shulker\"",
+                    "minecraft:custom_name": "\"綠色界伏蚌\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -311,7 +311,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.shulker.ambient",
-                    "minecraft:custom_name": "\"Blue Shulker\"",
+                    "minecraft:custom_name": "\"藍色界伏蚌\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -358,7 +358,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.shulker.ambient",
-                    "minecraft:custom_name": "\"Cyan Shulker\"",
+                    "minecraft:custom_name": "\"青色界伏蚌\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -405,7 +405,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.shulker.hurt",
-                    "minecraft:custom_name": "\"Light Blue Shulker\"",
+                    "minecraft:custom_name": "\"淺藍色界伏蚌\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -452,7 +452,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.shulker.hurt",
-                    "minecraft:custom_name": "\"Pink Shulker\"",
+                    "minecraft:custom_name": "\"粉紅界伏蚌\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -499,7 +499,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.shulker.hurt",
-                    "minecraft:custom_name": "\"Magenta Shulker\"",
+                    "minecraft:custom_name": "\"洋紅色界伏蚌\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -546,7 +546,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.shulker.ambient",
-                    "minecraft:custom_name": "\"Purple Shulker\"",
+                    "minecraft:custom_name": "\"紫色界伏蚌\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -593,7 +593,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.shulker.shoot",
-                    "minecraft:custom_name": "\"Brown Shulker\"",
+                    "minecraft:custom_name": "\"棕色界伏蚌\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -640,7 +640,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.shulker.shoot",
-                    "minecraft:custom_name": "\"Black Shulker\"",
+                    "minecraft:custom_name": "\"黑色界伏蚌\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -687,7 +687,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.shulker.ambient",
-                    "minecraft:custom_name": "\"Gray Shulker\"",
+                    "minecraft:custom_name": "\"灰色界伏蚌\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -734,7 +734,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.shulker.ambient",
-                    "minecraft:custom_name": "\"Light Gray Shulker\"",
+                    "minecraft:custom_name": "\"淺灰色界伏蚌\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -781,7 +781,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.shulker.ambient",
-                    "minecraft:custom_name": "\"White Shulker\"",
+                    "minecraft:custom_name": "\"白色界伏蚌\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [

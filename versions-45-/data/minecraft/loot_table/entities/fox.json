@@ -39,7 +39,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.fox.death",
-                    "minecraft:custom_name": "\"Fox\"",
+                    "minecraft:custom_name": "\"狐狸\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -76,7 +76,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.fox.ambient",
-                    "minecraft:custom_name": "\"Snow Fox\"",
+                    "minecraft:custom_name": "\"雪狐\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [

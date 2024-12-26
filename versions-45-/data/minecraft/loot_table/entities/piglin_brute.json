@@ -22,7 +22,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.piglin_brute.angry",
-                "minecraft:custom_name": "\"Piglin Brute\"",
+                "minecraft:custom_name": "\"豬布林蠻兵\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

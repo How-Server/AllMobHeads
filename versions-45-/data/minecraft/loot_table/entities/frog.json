@@ -39,7 +39,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.frog.ambient",
-                    "minecraft:custom_name": "\"Temperate Frog\"",
+                    "minecraft:custom_name": "\"橙色蛙\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -76,7 +76,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.frog.death",
-                    "minecraft:custom_name": "\"Warm Frog\"",
+                    "minecraft:custom_name": "\"白蛙\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -113,7 +113,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.frog.hurt",
-                    "minecraft:custom_name": "\"Cold Frog\"",
+                    "minecraft:custom_name": "\"綠蛙\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [

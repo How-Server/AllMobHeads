@@ -22,7 +22,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.ravager.roar",
-                "minecraft:custom_name": "\"Ravager\"",
+                "minecraft:custom_name": "\"掠奪者\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

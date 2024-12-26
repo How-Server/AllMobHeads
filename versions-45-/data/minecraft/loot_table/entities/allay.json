@@ -22,7 +22,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.allay.ambient_with_item",
-                "minecraft:custom_name": "\"Allay\"",
+                "minecraft:custom_name": "\"悅靈\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

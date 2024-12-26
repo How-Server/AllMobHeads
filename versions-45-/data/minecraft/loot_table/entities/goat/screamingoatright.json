@@ -13,7 +13,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.goat.screaming.prepare_ram",
-                "minecraft:custom_name": "\"Screaming Goat Right Horn\"",
+                "minecraft:custom_name": "\"尖叫山羊右角\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

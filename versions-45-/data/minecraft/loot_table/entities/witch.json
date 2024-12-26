@@ -22,7 +22,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.witch.celebrate",
-                "minecraft:custom_name": "\"Witch\"",
+                "minecraft:custom_name": "\"巫婆\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

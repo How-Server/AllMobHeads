@@ -22,7 +22,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.bat.ambient",
-                "minecraft:custom_name": "\"Bat\"",
+                "minecraft:custom_name": "\"蝙蝠\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

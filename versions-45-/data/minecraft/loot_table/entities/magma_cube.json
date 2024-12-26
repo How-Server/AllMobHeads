@@ -22,7 +22,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.magma_cube.jump",
-                "minecraft:custom_name": "\"Magma Cube\"",
+                "minecraft:custom_name": "\"岩漿立方怪\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

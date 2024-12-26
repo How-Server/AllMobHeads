@@ -1,18 +1,18 @@
 {
-	"display": {
-		"icon": {
-			"id": "minecraft:cherry_sapling"
-		},
-		"title": "Vanilla",
-		"description": "Vanilla Heads Collection",
-        "announce_to_chat": true,
-        "frame": "goal"
-	},
-	"parent": "all_mob_heads:collection/root",
-	"criteria": {
-		"zombie_vanilla": {
-			"trigger": "minecraft:inventory_changed",
-			"conditions": {
+  "display": {
+    "icon": {
+      "id": "minecraft:cherry_sapling"
+    },
+    "title": "原味",
+    "description": "原味頭顱系列",
+    "announce_to_chat": true,
+    "frame": "goal"
+  },
+  "parent": "all_mob_heads:collection/root",
+  "criteria": {
+    "zombie_vanilla": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
         "items": [
           {
             "items": [
@@ -20,11 +20,11 @@
             ]
           }
         ]
-			}
-		},
-		"creeper_vanilla": {
-			"trigger": "minecraft:inventory_changed",
-			"conditions": {
+      }
+    },
+    "creeper_vanilla": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
         "items": [
           {
             "items": [
@@ -32,11 +32,11 @@
             ]
           }
         ]
-			}
-		},
-		"skeleton_vanilla": {
-			"trigger": "minecraft:inventory_changed",
-			"conditions": {
+      }
+    },
+    "skeleton_vanilla": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
         "items": [
           {
             "items": [
@@ -44,11 +44,11 @@
             ]
           }
         ]
-			}
-		},
-		"wither_skuleton_vanilla": {
-			"trigger": "minecraft:inventory_changed",
-			"conditions": {
+      }
+    },
+    "wither_skuleton_vanilla": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
         "items": [
           {
             "items": [
@@ -56,11 +56,11 @@
             ]
           }
         ]
-			}
-		},
-		"dragon_vanilla": {
-			"trigger": "minecraft:inventory_changed",
-			"conditions": {
+      }
+    },
+    "dragon_vanilla": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
         "items": [
           {
             "items": [
@@ -68,19 +68,19 @@
             ]
           }
         ]
-			}
-		},
-		"piglin_vanilla": {
-			"trigger": "minecraft:inventory_changed",
-			"conditions": {
-				"items": [
-				  {
-					"items": [
-					  "minecraft:piglin_head"
-					]
-				  }
-				]
-			}
-		}
-	}
+      }
+    },
+    "piglin_vanilla": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:piglin_head"
+            ]
+          }
+        ]
+      }
+    }
+  }
 }

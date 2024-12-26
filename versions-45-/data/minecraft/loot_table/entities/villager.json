@@ -39,7 +39,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_armorer",
-                    "minecraft:custom_name": "\"Armorer Villager\"",
+                    "minecraft:custom_name": "\"製甲師村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -76,7 +76,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_armorer",
-                    "minecraft:custom_name": "\"Desert Armorer Villager\"",
+                    "minecraft:custom_name": "\"沙漠製甲師村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -113,7 +113,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_armorer",
-                    "minecraft:custom_name": "\"Jungle Armorer Villager\"",
+                    "minecraft:custom_name": "\"叢林製甲師村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -150,7 +150,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_armorer",
-                    "minecraft:custom_name": "\"Savanna Armorer Villager\"",
+                    "minecraft:custom_name": "\"莽原製甲師村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -187,7 +187,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_armorer",
-                    "minecraft:custom_name": "\"Snow Armorer Villager\"",
+                    "minecraft:custom_name": "\"雪地製甲師村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -224,7 +224,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_armorer",
-                    "minecraft:custom_name": "\"Swamp Armorer Villager\"",
+                    "minecraft:custom_name": "\"沼澤盔甲匠村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -261,7 +261,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_armorer",
-                    "minecraft:custom_name": "\"Taiga Armorer Villager\"",
+                    "minecraft:custom_name": "\"針葉林製甲師村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -298,7 +298,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_butcher",
-                    "minecraft:custom_name": "\"Butcher Villager\"",
+                    "minecraft:custom_name": "\"屠夫村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -335,7 +335,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_butcher",
-                    "minecraft:custom_name": "\"Desert Butcher Villager\"",
+                    "minecraft:custom_name": "\"沙漠屠夫村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -372,7 +372,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_butcher",
-                    "minecraft:custom_name": "\"Jungle Butcher Villager\"",
+                    "minecraft:custom_name": "\"叢林屠夫村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -409,7 +409,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_butcher",
-                    "minecraft:custom_name": "\"Savanna Butcher Villager\"",
+                    "minecraft:custom_name": "\"莽原屠夫村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -446,7 +446,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_butcher",
-                    "minecraft:custom_name": "\"Snow Butcher Villager\"",
+                    "minecraft:custom_name": "\"雪地屠夫村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -483,7 +483,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_butcher",
-                    "minecraft:custom_name": "\"Swamp Butcher Villager\"",
+                    "minecraft:custom_name": "\"沼澤屠夫村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -520,7 +520,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_butcher",
-                    "minecraft:custom_name": "\"Taiga Butcher Villager\"",
+                    "minecraft:custom_name": "\"針葉林屠夫村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -557,7 +557,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_cartographer",
-                    "minecraft:custom_name": "\"Cartographer Villager\"",
+                    "minecraft:custom_name": "\"製圖師村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -594,7 +594,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_cartographer",
-                    "minecraft:custom_name": "\"Desert Cartographer Villager\"",
+                    "minecraft:custom_name": "\"沙漠製圖師村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -631,7 +631,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_cartographer",
-                    "minecraft:custom_name": "\"Jungle Cartographer Villager\"",
+                    "minecraft:custom_name": "\"叢林製圖師村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -668,7 +668,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_cartographer",
-                    "minecraft:custom_name": "\"Savanna Cartographer Villager\"",
+                    "minecraft:custom_name": "\"莽原製圖師村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -705,7 +705,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_cartographer",
-                    "minecraft:custom_name": "\"Snow Cartographer Villager\"",
+                    "minecraft:custom_name": "\"雪地製圖師村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -742,7 +742,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_cartographer",
-                    "minecraft:custom_name": "\"Swamp Cartographer Villager\"",
+                    "minecraft:custom_name": "\"沼澤製圖師村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -779,7 +779,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_cartographer",
-                    "minecraft:custom_name": "\"Taiga Cartographer Villager\"",
+                    "minecraft:custom_name": "\"針葉林製圖師村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -816,7 +816,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_cleric",
-                    "minecraft:custom_name": "\"Cleric Villager\"",
+                    "minecraft:custom_name": "\"神職人員村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -853,7 +853,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_cleric",
-                    "minecraft:custom_name": "\"Desert Cleric Villager\"",
+                    "minecraft:custom_name": "\"沙漠神職人員村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -890,7 +890,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_cleric",
-                    "minecraft:custom_name": "\"Jungle Cleric Villager\"",
+                    "minecraft:custom_name": "\"叢林神職人員村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -927,7 +927,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_cleric",
-                    "minecraft:custom_name": "\"Savanna Cleric Villager\"",
+                    "minecraft:custom_name": "\"莽原神職人員村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -964,7 +964,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_cleric",
-                    "minecraft:custom_name": "\"Snow Cleric Villager\"",
+                    "minecraft:custom_name": "\"雪地神職人員村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1001,7 +1001,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_cleric",
-                    "minecraft:custom_name": "\"Swamp Cleric Villager\"",
+                    "minecraft:custom_name": "\"沼澤神職人員村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1038,7 +1038,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_cleric",
-                    "minecraft:custom_name": "\"Taiga Cleric Villager\"",
+                    "minecraft:custom_name": "\"針葉林神職人員村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1075,7 +1075,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_farmer",
-                    "minecraft:custom_name": "\"Farmer Villager\"",
+                    "minecraft:custom_name": "\"農夫村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1112,7 +1112,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_farmer",
-                    "minecraft:custom_name": "\"Desert Farmer Villager\"",
+                    "minecraft:custom_name": "\"沙漠農夫村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1149,7 +1149,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_farmer",
-                    "minecraft:custom_name": "\"Jungle Farmer Villager\"",
+                    "minecraft:custom_name": "\"叢林農夫村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1186,7 +1186,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_farmer",
-                    "minecraft:custom_name": "\"Savanna Farmer Villager\"",
+                    "minecraft:custom_name": "\"莽原農夫村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1223,7 +1223,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_farmer",
-                    "minecraft:custom_name": "\"Snow Farmer Villager\"",
+                    "minecraft:custom_name": "\"雪地農夫村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1260,7 +1260,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_farmer",
-                    "minecraft:custom_name": "\"Swamp Farmer Villager\"",
+                    "minecraft:custom_name": "\"沼澤農夫村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1297,7 +1297,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_farmer",
-                    "minecraft:custom_name": "\"Taiga Farmer Villager\"",
+                    "minecraft:custom_name": "\"針葉林農夫村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1334,7 +1334,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_fisherman",
-                    "minecraft:custom_name": "\"Fisherman Villager\"",
+                    "minecraft:custom_name": "\"漁民村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1371,7 +1371,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_fisherman",
-                    "minecraft:custom_name": "\"Desert Fisherman Villager\"",
+                    "minecraft:custom_name": "\"沙漠漁民村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1408,7 +1408,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_fisherman",
-                    "minecraft:custom_name": "\"Jungle Fisherman Villager\"",
+                    "minecraft:custom_name": "\"叢林漁夫村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1445,7 +1445,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_fisherman",
-                    "minecraft:custom_name": "\"Savanna Fisherman Villager\"",
+                    "minecraft:custom_name": "\"莽原漁民村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1482,7 +1482,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_fisherman",
-                    "minecraft:custom_name": "\"Snow Fisherman Villager\"",
+                    "minecraft:custom_name": "\"雪地漁夫村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1519,7 +1519,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_fisherman",
-                    "minecraft:custom_name": "\"Swamp Fisherman Villager\"",
+                    "minecraft:custom_name": "\"沼澤漁民村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1556,7 +1556,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_fisherman",
-                    "minecraft:custom_name": "\"Taiga Fisherman Villager\"",
+                    "minecraft:custom_name": "\"針葉林漁民村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1593,7 +1593,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_fletcher",
-                    "minecraft:custom_name": "\"Fletcher Villager\"",
+                    "minecraft:custom_name": "\"製箭師村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1630,7 +1630,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_fletcher",
-                    "minecraft:custom_name": "\"Desert Fletcher Villager\"",
+                    "minecraft:custom_name": "\"沙漠製箭師村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1667,7 +1667,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_fletcher",
-                    "minecraft:custom_name": "\"Jungle Fletcher Villager\"",
+                    "minecraft:custom_name": "\"叢林製箭師村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1704,7 +1704,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_fletcher",
-                    "minecraft:custom_name": "\"Savanna Fletcher Villager\"",
+                    "minecraft:custom_name": "\"莽原製箭師村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1741,7 +1741,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_fletcher",
-                    "minecraft:custom_name": "\"Snow Fletcher Villager\"",
+                    "minecraft:custom_name": "\"雪地製箭師村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1778,7 +1778,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_fletcher",
-                    "minecraft:custom_name": "\"Swamp Fletcher Villager\"",
+                    "minecraft:custom_name": "\"沼澤製箭師村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1815,7 +1815,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_fletcher",
-                    "minecraft:custom_name": "\"Taiga Fletcher Villager\"",
+                    "minecraft:custom_name": "\"針葉林製箭師村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1852,7 +1852,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_leatherworker",
-                    "minecraft:custom_name": "\"Leatherworker Villager\"",
+                    "minecraft:custom_name": "\"制皮匠村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1889,7 +1889,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_leatherworker",
-                    "minecraft:custom_name": "\"Desert Leatherworker Villager\"",
+                    "minecraft:custom_name": "\"沙漠皮匠村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1926,7 +1926,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_leatherworker",
-                    "minecraft:custom_name": "\"Jungle Leatherworker Villager\"",
+                    "minecraft:custom_name": "\"叢林制皮匠村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1963,7 +1963,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_leatherworker",
-                    "minecraft:custom_name": "\"Savanna Leatherworker Villager\"",
+                    "minecraft:custom_name": "\"莽原皮革工人村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2000,7 +2000,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_leatherworker",
-                    "minecraft:custom_name": "\"Snow Leatherworker Villager\"",
+                    "minecraft:custom_name": "\"雪地皮匠村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2037,7 +2037,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_leatherworker",
-                    "minecraft:custom_name": "\"Swamp Leatherworker Villager\"",
+                    "minecraft:custom_name": "\"沼澤皮匠村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2074,7 +2074,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_leatherworker",
-                    "minecraft:custom_name": "\"Taiga Leatherworker Villager\"",
+                    "minecraft:custom_name": "\"針葉林皮匠村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2111,7 +2111,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_librarian",
-                    "minecraft:custom_name": "\"Librarian Villager\"",
+                    "minecraft:custom_name": "\"圖書管理員村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2148,7 +2148,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_librarian",
-                    "minecraft:custom_name": "\"Desert Librarian Villager\"",
+                    "minecraft:custom_name": "\"沙漠圖書管理員村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2185,7 +2185,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_librarian",
-                    "minecraft:custom_name": "\"Jungle Librarian Villager\"",
+                    "minecraft:custom_name": "\"叢林圖書管理員村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2222,7 +2222,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_librarian",
-                    "minecraft:custom_name": "\"Savanna Librarian Villager\"",
+                    "minecraft:custom_name": "\"莽原圖書管理員村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2259,7 +2259,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_librarian",
-                    "minecraft:custom_name": "\"Snow Librarian Villager\"",
+                    "minecraft:custom_name": "\"雪地圖書管理員村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2296,7 +2296,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_librarian",
-                    "minecraft:custom_name": "\"Swamp Librarian Villager\"",
+                    "minecraft:custom_name": "\"沼澤圖書管理員村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2333,7 +2333,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_librarian",
-                    "minecraft:custom_name": "\"Taiga Librarian Villager\"",
+                    "minecraft:custom_name": "\"針葉林圖書管理員村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2370,7 +2370,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_mason",
-                    "minecraft:custom_name": "\"Mason Villager\"",
+                    "minecraft:custom_name": "\"石匠村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2407,7 +2407,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_mason",
-                    "minecraft:custom_name": "\"Desert Mason Villager\"",
+                    "minecraft:custom_name": "\"沙漠石匠村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2444,7 +2444,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_mason",
-                    "minecraft:custom_name": "\"Jungle Mason Villager\"",
+                    "minecraft:custom_name": "\"叢林石匠村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2481,7 +2481,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_mason",
-                    "minecraft:custom_name": "\"Savanna Mason Villager\"",
+                    "minecraft:custom_name": "\"莽原石匠村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2518,7 +2518,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_mason",
-                    "minecraft:custom_name": "\"Snow Mason Villager\"",
+                    "minecraft:custom_name": "\"雪地石匠村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2555,7 +2555,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_mason",
-                    "minecraft:custom_name": "\"Swamp Mason Villager\"",
+                    "minecraft:custom_name": "\"沼澤石匠村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2592,7 +2592,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_mason",
-                    "minecraft:custom_name": "\"Taiga Mason Villager\"",
+                    "minecraft:custom_name": "\"針葉林石匠村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2629,7 +2629,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.no",
-                    "minecraft:custom_name": "\"Nitwit Villager\"",
+                    "minecraft:custom_name": "\"傻子村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2666,7 +2666,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.no",
-                    "minecraft:custom_name": "\"Desert Nitwit Villager\"",
+                    "minecraft:custom_name": "\"沙漠傻子村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2703,7 +2703,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.no",
-                    "minecraft:custom_name": "\"Jungle Nitwit Villager\"",
+                    "minecraft:custom_name": "\"叢林傻子村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2740,7 +2740,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.no",
-                    "minecraft:custom_name": "\"Savanna Nitwit Villager\"",
+                    "minecraft:custom_name": "\"莽原傻子村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2777,7 +2777,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.no",
-                    "minecraft:custom_name": "\"Snow Nitwit Villager\"",
+                    "minecraft:custom_name": "\"雪地傻子村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2814,7 +2814,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.no",
-                    "minecraft:custom_name": "\"Swamp Nitwit Villager\"",
+                    "minecraft:custom_name": "\"沼澤傻子村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2851,7 +2851,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.no",
-                    "minecraft:custom_name": "\"Taiga Nitwit Villager\"",
+                    "minecraft:custom_name": "\"針葉林傻子村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2888,7 +2888,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.ambient",
-                    "minecraft:custom_name": "\"Villager\"",
+                    "minecraft:custom_name": "\"村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2925,7 +2925,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.ambient",
-                    "minecraft:custom_name": "\"Desert Villager\"",
+                    "minecraft:custom_name": "\"沙漠村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2962,7 +2962,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.ambient",
-                    "minecraft:custom_name": "\"Jungle Villager\"",
+                    "minecraft:custom_name": "\"叢林村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -2999,7 +2999,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.ambient",
-                    "minecraft:custom_name": "\"Savanna Villager\"",
+                    "minecraft:custom_name": "\"莽原村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3036,7 +3036,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.ambient",
-                    "minecraft:custom_name": "\"Snow Villager\"",
+                    "minecraft:custom_name": "\"雪地村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3073,7 +3073,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.ambient",
-                    "minecraft:custom_name": "\"Swamp Villager\"",
+                    "minecraft:custom_name": "\"沼澤村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3110,7 +3110,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.ambient",
-                    "minecraft:custom_name": "\"Taiga Villager\"",
+                    "minecraft:custom_name": "\"針葉林村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3147,7 +3147,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_shepherd",
-                    "minecraft:custom_name": "\"Shepherd Villager\"",
+                    "minecraft:custom_name": "\"牧羊人村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3184,7 +3184,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_shepherd",
-                    "minecraft:custom_name": "\"Desert Shepherd Villager\"",
+                    "minecraft:custom_name": "\"沙漠牧羊人村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3221,7 +3221,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_shepherd",
-                    "minecraft:custom_name": "\"Jungle Shepherd Villager\"",
+                    "minecraft:custom_name": "\"叢林牧羊人村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3258,7 +3258,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_shepherd",
-                    "minecraft:custom_name": "\"Savanna Shepherd Villager\"",
+                    "minecraft:custom_name": "\"莽原牧羊人村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3295,7 +3295,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_shepherd",
-                    "minecraft:custom_name": "\"Snow Shepherd Villager\"",
+                    "minecraft:custom_name": "\"雪地牧羊人村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3332,7 +3332,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_shepherd",
-                    "minecraft:custom_name": "\"Swamp Shepherd Villager\"",
+                    "minecraft:custom_name": "\"沼澤牧羊人村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3369,7 +3369,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_shepherd",
-                    "minecraft:custom_name": "\"Taiga Shepherd Villager\"",
+                    "minecraft:custom_name": "\"針葉林牧羊人村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3406,7 +3406,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_toolsmith",
-                    "minecraft:custom_name": "\"Toolsmith Villager\"",
+                    "minecraft:custom_name": "\"工具匠村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3443,7 +3443,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_toolsmith",
-                    "minecraft:custom_name": "\"Desert Toolsmith Villager\"",
+                    "minecraft:custom_name": "\"沙漠工具匠村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3480,7 +3480,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_toolsmith",
-                    "minecraft:custom_name": "\"Jungle Toolsmith Villager\"",
+                    "minecraft:custom_name": "\"叢林工具匠村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3517,7 +3517,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_toolsmith",
-                    "minecraft:custom_name": "\"Savanna Toolsmith Villager\"",
+                    "minecraft:custom_name": "\"草原工具匠村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3554,7 +3554,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_toolsmith",
-                    "minecraft:custom_name": "\"Snow Toolsmith Villager\"",
+                    "minecraft:custom_name": "\"雪地工具匠村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3591,7 +3591,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_toolsmith",
-                    "minecraft:custom_name": "\"Swamp Toolsmith Villager\"",
+                    "minecraft:custom_name": "\"沼澤工具匠村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3628,7 +3628,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_toolsmith",
-                    "minecraft:custom_name": "\"Taiga Toolsmith Villager\"",
+                    "minecraft:custom_name": "\"針葉林工具匠村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3665,7 +3665,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_weaponsmith",
-                    "minecraft:custom_name": "\"Weaponsmith Villager\"",
+                    "minecraft:custom_name": "\"武器匠村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3702,7 +3702,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_weaponsmith",
-                    "minecraft:custom_name": "\"Desert Weaponsmith Villager\"",
+                    "minecraft:custom_name": "\"沙漠武器匠村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3739,7 +3739,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_weaponsmith",
-                    "minecraft:custom_name": "\"Jungle Weaponsmith Villager\"",
+                    "minecraft:custom_name": "\"叢林武器匠村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3776,7 +3776,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_weaponsmith",
-                    "minecraft:custom_name": "\"Savanna Weaponsmith Villager\"",
+                    "minecraft:custom_name": "\"莽原武器匠村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3813,7 +3813,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_weaponsmith",
-                    "minecraft:custom_name": "\"Snow Weaponsmith Villager\"",
+                    "minecraft:custom_name": "\"雪地武器匠村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3850,7 +3850,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_weaponsmith",
-                    "minecraft:custom_name": "\"Swamp Weaponsmith Villager\"",
+                    "minecraft:custom_name": "\"沼澤武器匠村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -3887,7 +3887,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.villager.work_weaponsmith",
-                    "minecraft:custom_name": "\"Taiga Weaponsmith Villager\"",
+                    "minecraft:custom_name": "\"針葉林武器匠村民\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [

@@ -13,7 +13,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.goat.prepare_ram",
-                "minecraft:custom_name": "\"Goat Right Horn\"",
+                "minecraft:custom_name": "\"山羊右角\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [
@@ -45,7 +45,7 @@
           "enchanted_chance": {
             "type": "minecraft:linear",
             "base": 0.05,
-            "per_level_above_first": 0.10
+            "per_level_above_first": 0.1
           }
         },
         {

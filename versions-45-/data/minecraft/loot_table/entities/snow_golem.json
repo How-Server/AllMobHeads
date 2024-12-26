@@ -39,7 +39,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.snow_golem.death",
-                    "minecraft:custom_name": "\"Snow Golem\"",
+                    "minecraft:custom_name": "\"雪人\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -76,7 +76,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.snow_golem.death",
-                    "minecraft:custom_name": "\"Snowman\"",
+                    "minecraft:custom_name": "\"雪人\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [

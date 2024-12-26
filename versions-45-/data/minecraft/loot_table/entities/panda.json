@@ -39,7 +39,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.panda.aggressive_ambient",
-                    "minecraft:custom_name": "\"Aggressive Panda\"",
+                    "minecraft:custom_name": "\"好鬥熊貓\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -76,7 +76,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.panda.death",
-                    "minecraft:custom_name": "\"Lazy Panda\"",
+                    "minecraft:custom_name": "\"懶貓\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -113,7 +113,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.panda.hurt",
-                    "minecraft:custom_name": "\"Playful Panda\"",
+                    "minecraft:custom_name": "\"頑皮熊貓\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -150,7 +150,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.panda.worried_ambient",
-                    "minecraft:custom_name": "\"Worried Panda\"",
+                    "minecraft:custom_name": "\"憂鬱熊貓\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -187,7 +187,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.panda.cant_breed",
-                    "minecraft:custom_name": "\"Brown Panda\"",
+                    "minecraft:custom_name": "\"棕色熊貓\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -224,7 +224,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.panda.sneeze",
-                    "minecraft:custom_name": "\"Weak Panda\"",
+                    "minecraft:custom_name": "\"虛弱貓熊\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -261,7 +261,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.panda.ambient",
-                    "minecraft:custom_name": "\"Panda\"",
+                    "minecraft:custom_name": "\"貓熊\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [

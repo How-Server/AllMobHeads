@@ -22,7 +22,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.puffer_fish.death",
-                "minecraft:custom_name": "\"Pufferfish\"",
+                "minecraft:custom_name": "\"河豚\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

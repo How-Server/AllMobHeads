@@ -22,7 +22,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.donkey.angry",
-                "minecraft:custom_name": "\"Donkey\"",
+                "minecraft:custom_name": "\"驢\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

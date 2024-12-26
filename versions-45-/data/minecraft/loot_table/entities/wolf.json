@@ -39,7 +39,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.wolf.howl",
-                    "minecraft:custom_name": "\"Pale Wolf\"",
+                    "minecraft:custom_name": "\"蒼狼\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -86,7 +86,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.wolf.growl",
-                    "minecraft:custom_name": "\"Angry Pale Wolf\"",
+                    "minecraft:custom_name": "\"憤怒蒼狼\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -133,7 +133,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.wolf.howl",
-                    "minecraft:custom_name": "\"Woods Wolf\"",
+                    "minecraft:custom_name": "\"森林狼\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -180,7 +180,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.wolf.growl",
-                    "minecraft:custom_name": "\"Angry Woods Wolf\"",
+                    "minecraft:custom_name": "\"憤怒森林狼\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -227,7 +227,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.wolf.howl",
-                    "minecraft:custom_name": "\"Ashen Wolf\"",
+                    "minecraft:custom_name": "\"灰狼\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -274,7 +274,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.wolf.growl",
-                    "minecraft:custom_name": "\"Angry Ashen Wolf\"",
+                    "minecraft:custom_name": "\"憤怒灰狼\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -321,7 +321,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.wolf.howl",
-                    "minecraft:custom_name": "\"Black Wolf\"",
+                    "minecraft:custom_name": "\"黑狼\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -368,7 +368,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.wolf.growl",
-                    "minecraft:custom_name": "\"Angry Black Wolf\"",
+                    "minecraft:custom_name": "\"憤怒黑狼\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -415,7 +415,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.wolf.howl",
-                    "minecraft:custom_name": "\"Chestnut Wolf\"",
+                    "minecraft:custom_name": "\"赭紅狼\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -462,7 +462,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.wolf.growl",
-                    "minecraft:custom_name": "\"Angry Chestnut Wolf\"",
+                    "minecraft:custom_name": "\"憤怒栗色狼\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -509,7 +509,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.wolf.howl",
-                    "minecraft:custom_name": "\"Rusty Wolf\"",
+                    "minecraft:custom_name": "\"赭紅狼\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -556,7 +556,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.wolf.growl",
-                    "minecraft:custom_name": "\"Angry Rusty Wolf\"",
+                    "minecraft:custom_name": "\"憤怒赭紅狼\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -603,7 +603,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.wolf.howl",
-                    "minecraft:custom_name": "\"Spotted Wolf\"",
+                    "minecraft:custom_name": "\"斑點狼\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -650,7 +650,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.wolf.growl",
-                    "minecraft:custom_name": "\"Angry Spotted Wolf\"",
+                    "minecraft:custom_name": "\"憤怒斑點狼\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -697,7 +697,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.wolf.howl",
-                    "minecraft:custom_name": "\"Striped Wolf\"",
+                    "minecraft:custom_name": "\"條紋狼\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -744,7 +744,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.wolf.growl",
-                    "minecraft:custom_name": "\"Angry Striped Wolf\"",
+                    "minecraft:custom_name": "\"憤怒條紋狼\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -791,7 +791,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.wolf.howl",
-                    "minecraft:custom_name": "\"Snowy Wolf\"",
+                    "minecraft:custom_name": "\"雪狼\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -838,7 +838,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.wolf.growl",
-                    "minecraft:custom_name": "\"Angry Snowy Wolf\"",
+                    "minecraft:custom_name": "\"憤怒雪狼\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -885,7 +885,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.wolf.ambient",
-                    "minecraft:custom_name": "\"White Collared Wolf\"",
+                    "minecraft:custom_name": "\"白項圈狼\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -922,7 +922,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.wolf.ambient",
-                    "minecraft:custom_name": "\"Orange Collared Wolf\"",
+                    "minecraft:custom_name": "\"橘色項圈狗\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -959,7 +959,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.wolf.ambient",
-                    "minecraft:custom_name": "\"Magenta Collared Wolf\"",
+                    "minecraft:custom_name": "\"洋紅色項圈狼\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -996,7 +996,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.wolf.ambient",
-                    "minecraft:custom_name": "\"Light Blue Collared Wolf\"",
+                    "minecraft:custom_name": "\"淡藍項圈狼\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1033,7 +1033,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.wolf.ambient",
-                    "minecraft:custom_name": "\"Yellow Collared Wolf\"",
+                    "minecraft:custom_name": "\"黃項圈狼\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1070,7 +1070,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.wolf.ambient",
-                    "minecraft:custom_name": "\"Lime Collared Wolf\"",
+                    "minecraft:custom_name": "\"淺綠色項圈狼\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1107,7 +1107,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.wolf.ambient",
-                    "minecraft:custom_name": "\"Pink Collared Wolf\"",
+                    "minecraft:custom_name": "\"粉紅項圈狼\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1144,7 +1144,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.wolf.ambient",
-                    "minecraft:custom_name": "\"Gray Collared Wolf\"",
+                    "minecraft:custom_name": "\"灰項圈狼\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1181,7 +1181,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.wolf.ambient",
-                    "minecraft:custom_name": "\"Light Gray Collared Wolf\"",
+                    "minecraft:custom_name": "\"淺灰項圈狼\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1218,7 +1218,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.wolf.ambient",
-                    "minecraft:custom_name": "\"Cyan Collared Wolf\"",
+                    "minecraft:custom_name": "\"青色項圈狼\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1255,7 +1255,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.wolf.ambient",
-                    "minecraft:custom_name": "\"Purple Collared Wolf\"",
+                    "minecraft:custom_name": "\"紫項圈狼\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1292,7 +1292,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.wolf.ambient",
-                    "minecraft:custom_name": "\"Blue Collared Wolf\"",
+                    "minecraft:custom_name": "\"藍項圈狼\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1329,7 +1329,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.wolf.ambient",
-                    "minecraft:custom_name": "\"Brown Collared Wolf\"",
+                    "minecraft:custom_name": "\"棕項圈狼\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1366,7 +1366,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.wolf.ambient",
-                    "minecraft:custom_name": "\"Green Collared Wolf\"",
+                    "minecraft:custom_name": "\"綠項圈狼\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1403,7 +1403,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.wolf.ambient",
-                    "minecraft:custom_name": "\"Red Collared Wolf\"",
+                    "minecraft:custom_name": "\"紅項圈狼\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -1440,7 +1440,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.wolf.ambient",
-                    "minecraft:custom_name": "\"Black Collared Wolf\"",
+                    "minecraft:custom_name": "\"黑項圈狼\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [

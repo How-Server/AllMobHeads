@@ -22,7 +22,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.silverfish.ambient",
-                "minecraft:custom_name": "\"Silverfish\"",
+                "minecraft:custom_name": "\"蠹魚\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

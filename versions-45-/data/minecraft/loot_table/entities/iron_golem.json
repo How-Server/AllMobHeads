@@ -22,7 +22,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.iron_golem.death",
-                "minecraft:custom_name": "\"Iron Golem\"",
+                "minecraft:custom_name": "\"鐵魔像\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

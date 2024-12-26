@@ -39,7 +39,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.rabbit.death",
-                    "minecraft:custom_name": "\"Toast\"",
+                    "minecraft:custom_name": "\"吐司\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -76,7 +76,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.rabbit.hurt",
-                    "minecraft:custom_name": "\"Brown Rabbit\"",
+                    "minecraft:custom_name": "\"棕兔\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -113,7 +113,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.rabbit.death",
-                    "minecraft:custom_name": "\"White Rabbit\"",
+                    "minecraft:custom_name": "\"白兔\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -150,7 +150,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.rabbit.hurt",
-                    "minecraft:custom_name": "\"Black Rabbit\"",
+                    "minecraft:custom_name": "\"黑兔\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -187,7 +187,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.rabbit.death",
-                    "minecraft:custom_name": "\"Black and White Rabbit\"",
+                    "minecraft:custom_name": "\"黑白兔\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -224,7 +224,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.rabbit.hurt",
-                    "minecraft:custom_name": "\"Gold Rabbit\"",
+                    "minecraft:custom_name": "\"黃金兔\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -261,7 +261,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.rabbit.death",
-                    "minecraft:custom_name": "\"Salt and Pepper Rabbit\"",
+                    "minecraft:custom_name": "\"椒鹽兔\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -298,7 +298,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.rabbit.attack",
-                    "minecraft:custom_name": "\"The Killer Bunny\"",
+                    "minecraft:custom_name": "\"殺手兔\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [

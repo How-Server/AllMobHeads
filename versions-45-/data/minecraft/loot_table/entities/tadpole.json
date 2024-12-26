@@ -22,7 +22,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.tadpole.death",
-                "minecraft:custom_name": "\"Tadpole\"",
+                "minecraft:custom_name": "\"蝌蚪\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

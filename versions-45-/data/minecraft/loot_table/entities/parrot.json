@@ -39,7 +39,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.parrot.ambient",
-                    "minecraft:custom_name": "\"Red Parrot\"",
+                    "minecraft:custom_name": "\"紅鸚鵡\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -76,7 +76,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.parrot.death",
-                    "minecraft:custom_name": "\"Blue Parrot\"",
+                    "minecraft:custom_name": "\"藍鸚鵡\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -113,7 +113,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.parrot.hurt",
-                    "minecraft:custom_name": "\"Green Parrot\"",
+                    "minecraft:custom_name": "\"綠鸚鵡\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -150,7 +150,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.parrot.imitate.skeleton",
-                    "minecraft:custom_name": "\"Cyan Parrot\"",
+                    "minecraft:custom_name": "\"青色鸚鵡\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -187,7 +187,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.parrot.imitate.zombie",
-                    "minecraft:custom_name": "\"Gray Parrot\"",
+                    "minecraft:custom_name": "\"灰鸚鵡\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [

@@ -13,7 +13,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.spider.ambient",
-                "minecraft:custom_name": "\"Potato Spider\"",
+                "minecraft:custom_name": "\"馬鈴薯蜘蛛\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

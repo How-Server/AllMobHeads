@@ -22,7 +22,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.zoglin.ambient",
-                "minecraft:custom_name": "\"Zoglin\"",
+                "minecraft:custom_name": "\"豬屍獸\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

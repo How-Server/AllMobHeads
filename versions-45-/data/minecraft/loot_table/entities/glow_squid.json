@@ -22,7 +22,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.glow_squid.squirt",
-                "minecraft:custom_name": "\"Glow Squid\"",
+                "minecraft:custom_name": "\"螢光魷魚\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

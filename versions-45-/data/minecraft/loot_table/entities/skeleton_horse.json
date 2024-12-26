@@ -22,7 +22,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.skeleton_horse.ambient",
-                "minecraft:custom_name": "\"Skeleton Horse\"",
+                "minecraft:custom_name": "\"骷髏馬\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

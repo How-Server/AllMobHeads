@@ -22,7 +22,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.cod.hurt",
-                "minecraft:custom_name": "\"Cod\"",
+                "minecraft:custom_name": "\"鱈魚\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

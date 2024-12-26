@@ -29,7 +29,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombified_piglin.ambient",
-                    "minecraft:custom_name": "\"Zombified Piglin\"",
+                    "minecraft:custom_name": "\"殭屍化豬布林\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [

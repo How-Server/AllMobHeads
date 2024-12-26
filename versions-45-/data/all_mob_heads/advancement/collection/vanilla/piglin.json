@@ -1,27 +1,27 @@
 {
-	"display": {
-		"icon": {
-			"id": "minecraft:piglin_head"
-		},
-		"title": "Piglin",
-		"description": "Obtained by Charged Creeper explosion",
-        "frame": "task",
-        "announce_to_chat": false,
-        "show_toast": true
-	},
-	"parent": "all_mob_heads:collection/vanilla/dragon",
-	"criteria": {
-		"piglin_vanilla": {
-			"trigger": "minecraft:inventory_changed",
-			"conditions": {
-				"items": [
-				  {
-					"items": [
-					  "minecraft:piglin_head"
-					]
-				  }
-				]
-			}
-		}
-	}
+  "display": {
+    "icon": {
+      "id": "minecraft:piglin_head"
+    },
+    "title": "豬布林",
+    "description": "透過高壓苦力怕爆炸獲得",
+    "frame": "task",
+    "announce_to_chat": false,
+    "show_toast": true
+  },
+  "parent": "all_mob_heads:collection/vanilla/dragon",
+  "criteria": {
+    "piglin_vanilla": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:piglin_head"
+            ]
+          }
+        ]
+      }
+    }
+  }
 }

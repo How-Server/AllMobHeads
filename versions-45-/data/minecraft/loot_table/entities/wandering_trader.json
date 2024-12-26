@@ -22,7 +22,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.wandering_trader.ambient",
-                "minecraft:custom_name": "\"Wandering Trader\"",
+                "minecraft:custom_name": "\"流浪商人\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

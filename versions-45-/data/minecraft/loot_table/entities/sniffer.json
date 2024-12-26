@@ -22,7 +22,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.sniffer.idle",
-                "minecraft:custom_name": "\"Sniffer\"",
+                "minecraft:custom_name": "\"嗅探獸\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

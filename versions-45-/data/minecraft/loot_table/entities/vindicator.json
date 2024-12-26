@@ -22,7 +22,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.vindicator.celebrate",
-                "minecraft:custom_name": "\"Vindicator\"",
+                "minecraft:custom_name": "\"衛道士\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

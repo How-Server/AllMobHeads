@@ -22,7 +22,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.pig.ambient",
-                "minecraft:custom_name": "\"Pig\"",
+                "minecraft:custom_name": "\"豬\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

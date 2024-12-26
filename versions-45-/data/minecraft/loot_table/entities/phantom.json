@@ -22,7 +22,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.phantom.swoop",
-                "minecraft:custom_name": "\"Phantom\"",
+                "minecraft:custom_name": "\"夜寐\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

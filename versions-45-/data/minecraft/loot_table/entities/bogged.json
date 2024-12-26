@@ -22,7 +22,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.bogged.ambient",
-                "minecraft:custom_name": "\"Bogged\"",
+                "minecraft:custom_name": "\"沼骸\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

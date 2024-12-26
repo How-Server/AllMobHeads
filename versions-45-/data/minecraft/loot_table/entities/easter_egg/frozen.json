@@ -13,7 +13,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.blaze.death",
-                "minecraft:custom_name": "\"Frozen Blaze\"",
+                "minecraft:custom_name": "\"冰凍烈焰\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

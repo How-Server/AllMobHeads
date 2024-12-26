@@ -22,7 +22,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.ghast.ambient",
-                "minecraft:custom_name": "\"Ghast\"",
+                "minecraft:custom_name": "\"地獄幽靈\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [
@@ -51,7 +51,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.ghast.warn",
-                "minecraft:custom_name": "\"Screaming Ghast\"",
+                "minecraft:custom_name": "\"尖叫地獄幽靈\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

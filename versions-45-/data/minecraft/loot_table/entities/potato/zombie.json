@@ -13,7 +13,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.zombie.ambient",
-                "minecraft:custom_name": "\"Potato Zombie\"",
+                "minecraft:custom_name": "\"馬鈴薯殭屍\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

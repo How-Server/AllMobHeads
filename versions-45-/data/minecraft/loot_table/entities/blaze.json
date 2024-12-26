@@ -22,7 +22,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.blaze.ambient",
-                "minecraft:custom_name": "\"Blaze\"",
+                "minecraft:custom_name": "\"烈焰使者\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [
