@@ -1,0 +1,60 @@
+Type,Source,Original,Translation
+minecraft:custom_name,versions-72-/data/all_mob_heads/loot_table/baby_happy_ghast.json,Baby Happy Ghast,幼年快樂幽靈
+minecraft:custom_name,versions-72-/data/all_mob_heads/loot_table/happy_ghast.json,Golden Happy Ghast,黃金快樂幽靈
+title,versions-72-/data/all_mob_heads/advancement/collection/happy_ghast.json,Happy Ghast,快樂幽靈
+description,versions-72-/data/all_mob_heads/advancement/collection/happy_ghast.json,Happy Ghast Mob Heads Collection,快樂幽靈頭顱系列
+title,versions-72-/data/all_mob_heads/advancement/collection/root.json,Heads Collection,生物頭顱收集
+description,versions-72-/data/all_mob_heads/advancement/collection/root.json,Collect Them All,收集全部
+title,versions-72-/data/all_mob_heads/advancement/collection/happy_ghast/baby_happy_ghast.json,Baby Happy Ghast,幼年快樂幽靈
+description,versions-72-/data/all_mob_heads/advancement/collection/happy_ghast/baby_happy_ghast.json,10% with Looting I then + 10% per Looting,掠奪 I 為 10%，多一級掠奪 + 10%
+title,versions-72-/data/all_mob_heads/advancement/collection/happy_ghast/orange_harness_happy_ghast.json,Orange Harness Happy Ghast,橘色帽鞍快樂幽靈
+description,versions-72-/data/all_mob_heads/advancement/collection/happy_ghast/orange_harness_happy_ghast.json,10% with Looting I then + 10% per Looting,掠奪 I 為 10%，多一級掠奪 + 10%
+title,versions-72-/data/all_mob_heads/advancement/collection/happy_ghast/yellow_harness_happy_ghast.json,Yellow Harness Happy Ghast,黃色帽鞍快樂幽靈
+description,versions-72-/data/all_mob_heads/advancement/collection/happy_ghast/yellow_harness_happy_ghast.json,10% with Looting I then + 10% per Looting,掠奪 I 為 10%，多一級掠奪 + 10%
+title,versions-72-/data/all_mob_heads/advancement/collection/happy_ghast/cyan_harness_happy_ghast.json,Cyan Harness Happy Ghast,青色帽鞍快樂幽靈
+description,versions-72-/data/all_mob_heads/advancement/collection/happy_ghast/cyan_harness_happy_ghast.json,10% with Looting I then + 10% per Looting,掠奪 I 為 10%，多一級掠奪 + 10%
+title,versions-72-/data/all_mob_heads/advancement/collection/happy_ghast/blue_harness_happy_ghast.json,Blue Harness Happy Ghast,藍色帽鞍快樂幽靈
+description,versions-72-/data/all_mob_heads/advancement/collection/happy_ghast/blue_harness_happy_ghast.json,10% with Looting I then + 10% per Looting,掠奪 I 為 10%，多一級掠奪 + 10%
+title,versions-72-/data/all_mob_heads/advancement/collection/happy_ghast/green_harness_happy_ghast.json,Green Harness Happy Ghast,綠色帽鞍快樂幽靈
+description,versions-72-/data/all_mob_heads/advancement/collection/happy_ghast/green_harness_happy_ghast.json,10% with Looting I then + 10% per Looting,掠奪 I 為 10%，多一級掠奪 + 10%
+title,versions-72-/data/all_mob_heads/advancement/collection/happy_ghast/purple_harness_happy_ghast.json,Purple Harness Happy Ghast,紫色帽鞍快樂幽靈
+description,versions-72-/data/all_mob_heads/advancement/collection/happy_ghast/purple_harness_happy_ghast.json,10% with Looting I then + 10% per Looting,掠奪 I 為 10%，多一級掠奪 + 10%
+title,versions-72-/data/all_mob_heads/advancement/collection/happy_ghast/red_harness_happy_ghast.json,Red Harness Happy Ghast,紅色帽鞍快樂幽靈
+description,versions-72-/data/all_mob_heads/advancement/collection/happy_ghast/red_harness_happy_ghast.json,10% with Looting I then + 10% per Looting,掠奪 I 為 10%，多一級掠奪 + 10%
+title,versions-72-/data/all_mob_heads/advancement/collection/happy_ghast/pink_harness_happy_ghast.json,Pink Harness Happy Ghast,粉紅色帽鞍快樂幽靈
+description,versions-72-/data/all_mob_heads/advancement/collection/happy_ghast/pink_harness_happy_ghast.json,10% with Looting I then + 10% per Looting,掠奪 I 為 10%，多一級掠奪 + 10%
+title,versions-72-/data/all_mob_heads/advancement/collection/happy_ghast/light_gray_harness_happy_ghast.json,Light Gray Harness Happy Ghast,淺灰色帽鞍快樂幽靈
+description,versions-72-/data/all_mob_heads/advancement/collection/happy_ghast/light_gray_harness_happy_ghast.json,10% with Looting I then + 10% per Looting,掠奪 I 為 10%，多一級掠奪 + 10%
+title,versions-72-/data/all_mob_heads/advancement/collection/happy_ghast/lime_harness_happy_ghast.json,Lime Harness Happy Ghast,淺綠色帽鞍快樂幽靈
+description,versions-72-/data/all_mob_heads/advancement/collection/happy_ghast/lime_harness_happy_ghast.json,10% with Looting I then + 10% per Looting,掠奪 I 為 10%，多一級掠奪 + 10%
+title,versions-72-/data/all_mob_heads/advancement/collection/happy_ghast/magenta_harness_happy_ghast.json,Magenta Harness Happy Ghast,洋紅色帽鞍快樂幽靈
+description,versions-72-/data/all_mob_heads/advancement/collection/happy_ghast/magenta_harness_happy_ghast.json,10% with Looting I then + 10% per Looting,掠奪 I 為 10%，多一級掠奪 + 10%
+title,versions-72-/data/all_mob_heads/advancement/collection/happy_ghast/happy_ghast.json,Happy Ghast,快樂幽靈
+description,versions-72-/data/all_mob_heads/advancement/collection/happy_ghast/happy_ghast.json,10% with Looting I then + 10% per Looting,掠奪 I 為 10%，多一級掠奪 + 10%
+title,versions-72-/data/all_mob_heads/advancement/collection/happy_ghast/light_blue_harness_happy_ghast.json,Light Blue Harness Happy Ghast,淺藍色帽鞍快樂幽靈
+description,versions-72-/data/all_mob_heads/advancement/collection/happy_ghast/light_blue_harness_happy_ghast.json,10% with Looting I then + 10% per Looting,掠奪 I 為 10%，多一級掠奪 + 10%
+title,versions-72-/data/all_mob_heads/advancement/collection/happy_ghast/gray_harness_happy_ghast.json,Gray Harness Happy Ghast,灰色帽鞍快樂幽靈
+description,versions-72-/data/all_mob_heads/advancement/collection/happy_ghast/gray_harness_happy_ghast.json,10% with Looting I then + 10% per Looting,掠奪 I 為 10%，多一級掠奪 + 10%
+title,versions-72-/data/all_mob_heads/advancement/collection/happy_ghast/brown_harness_happy_ghast.json,Brown Harness Happy Ghast,棕色帽鞍快樂幽靈
+description,versions-72-/data/all_mob_heads/advancement/collection/happy_ghast/brown_harness_happy_ghast.json,10% with Looting I then + 10% per Looting,掠奪 I 為 10%，多一級掠奪 + 10%
+title,versions-72-/data/all_mob_heads/advancement/collection/happy_ghast/black_harness_happy_ghast.json,Black Harness Happy Ghast,黑色帽鞍快樂幽靈
+description,versions-72-/data/all_mob_heads/advancement/collection/happy_ghast/black_harness_happy_ghast.json,10% with Looting I then + 10% per Looting,掠奪 I 為 10%，多一級掠奪 + 10%
+title,versions-72-/data/all_mob_heads/advancement/collection/happy_ghast/white_harness_happy_ghast.json,White Harness Happy Ghast,白色帽鞍快樂幽靈
+description,versions-72-/data/all_mob_heads/advancement/collection/happy_ghast/white_harness_happy_ghast.json,10% with Looting I then + 10% per Looting,掠奪 I 為 10%，多一級掠奪 + 10%
+minecraft:custom_name,versions-72-/data/minecraft/loot_table/entities/happy_ghast.json,Happy Ghast,快樂幽靈
+minecraft:custom_name,versions-72-/data/minecraft/loot_table/entities/happy_ghast.json,Red Harness Happy Ghast,紅色帽鞍快樂幽靈
+minecraft:custom_name,versions-72-/data/minecraft/loot_table/entities/happy_ghast.json,Yellow Harness Happy Ghast,黃色帽鞍快樂幽靈
+minecraft:custom_name,versions-72-/data/minecraft/loot_table/entities/happy_ghast.json,White Harness Happy Ghast,白色帽鞍快樂幽靈
+minecraft:custom_name,versions-72-/data/minecraft/loot_table/entities/happy_ghast.json,Purple Harness Happy Ghast,紫色帽鞍快樂幽靈
+minecraft:custom_name,versions-72-/data/minecraft/loot_table/entities/happy_ghast.json,Pink Harness Happy Ghast,粉紅色帽鞍快樂幽靈
+minecraft:custom_name,versions-72-/data/minecraft/loot_table/entities/happy_ghast.json,Orange Harness Happy Ghast,橘色帽鞍快樂幽靈
+minecraft:custom_name,versions-72-/data/minecraft/loot_table/entities/happy_ghast.json,Magenta Harness Happy Ghast,洋紅色帽鞍快樂幽靈
+minecraft:custom_name,versions-72-/data/minecraft/loot_table/entities/happy_ghast.json,Lime Harness Happy Ghast,淺綠色帽鞍快樂幽靈
+minecraft:custom_name,versions-72-/data/minecraft/loot_table/entities/happy_ghast.json,Light Gray Harness Happy Ghast,淺灰色帽鞍快樂幽靈
+minecraft:custom_name,versions-72-/data/minecraft/loot_table/entities/happy_ghast.json,Light Blue Harness Happy Ghast,淺藍色帽鞍快樂幽靈
+minecraft:custom_name,versions-72-/data/minecraft/loot_table/entities/happy_ghast.json,Green Harness Happy Ghast,綠色帽鞍快樂幽靈
+minecraft:custom_name,versions-72-/data/minecraft/loot_table/entities/happy_ghast.json,Gray Harness Happy Ghast,灰色帽鞍快樂幽靈
+minecraft:custom_name,versions-72-/data/minecraft/loot_table/entities/happy_ghast.json,Cyan Harness Happy Ghast,青色帽鞍快樂幽靈
+minecraft:custom_name,versions-72-/data/minecraft/loot_table/entities/happy_ghast.json,Brown Harness Happy Ghast,棕色帽鞍快樂幽靈
+minecraft:custom_name,versions-72-/data/minecraft/loot_table/entities/happy_ghast.json,Blue Harness Happy Ghast,藍色帽鞍快樂幽靈
+minecraft:custom_name,versions-72-/data/minecraft/loot_table/entities/happy_ghast.json,Black Harness Happy Ghast,黑色帽鞍快樂幽靈
