@@ -60,13 +60,13 @@ def main():
                 translations = process_json_file(file_path)
                 all_translations.extend(translations)
     
-    with open('translations.csv', 'w', encoding='utf-8', newline='') as f:
+    with open(f'translations_{base_path}.csv', 'w', encoding='utf-8', newline='') as f:
         writer = csv.DictWriter(f, fieldnames=['Type', 'Source', 'Original', 'Translation'])
         writer.writeheader()
         writer.writerows(all_translations)
     
     print(f"\nComplete! Found {len(all_translations)} items to translate")
-    print(f"Results saved to translations.csv")
+    print(f"Results saved to translations_{base_path}.csv")
 
 if __name__ == '__main__':
     main()

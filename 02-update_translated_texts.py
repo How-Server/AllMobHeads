@@ -39,8 +39,17 @@ def update_json_file(file_path, type_key, original, translation):
         return True
     return False
 
+#-----------------------------------
+# all = '.'
+# versions-16-44 = 'versions-16-44'
+# versions-33-44 = 'versions-33-44'
+# versions-45- = 'versions-45-'
+
+base_path = '.'
+#-----------------------------------
+
 def main():
-    translations_file = 'translations.csv'
+    translations_file = f'translations_{base_path}.csv'
     if not os.path.exists(translations_file):
         print(f"Error: {translations_file} not found")
         return
