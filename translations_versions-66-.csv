@@ -1,0 +1,16 @@
+Type,Source,Original,Translation
+title,versions-66-/data/all_mob_heads/advancement/collection/passives.json,Passives,友好
+description,versions-66-/data/all_mob_heads/advancement/collection/passives.json,Passive Mob Heads Collection,友好生物頭顱系列
+title,versions-66-/data/all_mob_heads/advancement/collection/root.json,Heads Collection,生物頭顱收集
+description,versions-66-/data/all_mob_heads/advancement/collection/root.json,Collect Them All,收集全部
+title,versions-66-/data/all_mob_heads/advancement/collection/passives/pig.json,Pig,豬
+description,versions-66-/data/all_mob_heads/advancement/collection/passives/pig.json,0.1% with Looting I then + 1% per Looting,掠奪 I 為 0.1%，多一級掠奪 + 1%
+title,versions-66-/data/all_mob_heads/advancement/collection/passives/chicken.json,Chicken,雞
+description,versions-66-/data/all_mob_heads/advancement/collection/passives/chicken.json,0.1% with Looting I then + 1% per Looting,掠奪 I 為 0.1%，多一級掠奪 + 1%
+title,versions-66-/data/all_mob_heads/advancement/collection/passives/warm_chicken.json,Warm Chicken,溫帶雞
+description,versions-66-/data/all_mob_heads/advancement/collection/passives/warm_chicken.json,0.1% with Looting I then + 1% per Looting,掠奪 I 為 0.1%，多一級掠奪 + 1%
+title,versions-66-/data/all_mob_heads/advancement/collection/passives/cold_chicken.json,Cold Chicken,寒帶雞
+description,versions-66-/data/all_mob_heads/advancement/collection/passives/cold_chicken.json,0.1% with Looting I then + 1% per Looting,掠奪 I 為 0.1%，多一級掠奪 + 1%
+minecraft:custom_name,versions-66-/data/minecraft/loot_table/entities/chicken.json,Chicken,雞
+minecraft:custom_name,versions-66-/data/minecraft/loot_table/entities/chicken.json,Cold Chicken,寒帶雞
+minecraft:custom_name,versions-66-/data/minecraft/loot_table/entities/chicken.json,Warm Chicken,溫帶雞

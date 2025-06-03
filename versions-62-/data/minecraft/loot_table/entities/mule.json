@@ -22,7 +22,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.mule.ambient",
-                "minecraft:custom_name": "\"Mule\"",
+                "minecraft:custom_name": "\"騾子\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

@@ -13,7 +13,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.skeleton.ambient",
-                "minecraft:custom_name": "\"Potato Skeleton\"",
+                "minecraft:custom_name": "\"馬鈴薯骷髏\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

@@ -22,7 +22,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.guardian.ambient_land",
-                "minecraft:custom_name": "\"Guardian\"",
+                "minecraft:custom_name": "\"深海守衛\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

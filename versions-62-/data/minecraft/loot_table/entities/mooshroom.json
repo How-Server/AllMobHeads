@@ -39,7 +39,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.cow.ambient",
-                    "minecraft:custom_name": "\"Red Mooshroom\"",
+                    "minecraft:custom_name": "\"紅哞菇\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -76,7 +76,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.cow.hurt",
-                    "minecraft:custom_name": "\"Brown Mooshroom\"",
+                    "minecraft:custom_name": "\"棕色哞菇\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [

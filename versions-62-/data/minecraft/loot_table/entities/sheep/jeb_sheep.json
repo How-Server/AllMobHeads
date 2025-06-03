@@ -13,7 +13,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.sheep.ambient",
-                "minecraft:custom_name": "\"Jeb_ Sheep\"",
+                "minecraft:custom_name": "\"彩虹羊\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

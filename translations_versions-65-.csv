@@ -1,0 +1,16 @@
+Type,Source,Original,Translation
+title,versions-65-/data/all_mob_heads/advancement/collection/passives.json,Passives,友好
+description,versions-65-/data/all_mob_heads/advancement/collection/passives.json,Passive Mob Heads Collection,友好生物頭顱系列
+title,versions-65-/data/all_mob_heads/advancement/collection/root.json,Heads Collection,生物頭顱收集
+description,versions-65-/data/all_mob_heads/advancement/collection/root.json,Collect Them All,收集全部
+title,versions-65-/data/all_mob_heads/advancement/collection/passives/warm_cow.json,Warm Cow,溫帶牛
+description,versions-65-/data/all_mob_heads/advancement/collection/passives/warm_cow.json,0.1% with Looting I then + 1% per Looting,掠奪 I 為 0.1%，多一級掠奪 + 1%
+title,versions-65-/data/all_mob_heads/advancement/collection/passives/cow.json,Cow,牛
+description,versions-65-/data/all_mob_heads/advancement/collection/passives/cow.json,0.1% with Looting I then + 1% per Looting,掠奪 I 為 0.1%，多一級掠奪 + 1%
+title,versions-65-/data/all_mob_heads/advancement/collection/passives/cold_cow.json,Cold Cow,寒帶牛
+description,versions-65-/data/all_mob_heads/advancement/collection/passives/cold_cow.json,0.1% with Looting I then + 1% per Looting,掠奪 I 為 0.1%，多一級掠奪 + 1%
+title,versions-65-/data/all_mob_heads/advancement/collection/passives/brown_mooshroom.json,Brown Mooshroom,棕色哞菇牛
+description,versions-65-/data/all_mob_heads/advancement/collection/passives/brown_mooshroom.json,0.1% with Looting I then + 1% per Looting,掠奪 I 為 0.1%，多一級掠奪 + 1%
+minecraft:custom_name,versions-65-/data/minecraft/loot_table/entities/cow.json,Cow,牛
+minecraft:custom_name,versions-65-/data/minecraft/loot_table/entities/cow.json,Cold Cow,寒帶牛
+minecraft:custom_name,versions-65-/data/minecraft/loot_table/entities/cow.json,Warm Cow,溫帶牛

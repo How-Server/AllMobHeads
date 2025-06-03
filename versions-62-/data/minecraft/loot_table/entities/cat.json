@@ -24,7 +24,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.cat.ambient",
-                    "minecraft:custom_name": "\"Tabby Cat\"",
+                    "minecraft:custom_name": "\"虎斑貓\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -61,7 +61,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.cat.stray_ambient",
-                    "minecraft:custom_name": "\"Tuxedo Cat\"",
+                    "minecraft:custom_name": "\"燕尾服貓\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -98,7 +98,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.cat.purr",
-                    "minecraft:custom_name": "\"Ginger Cat\"",
+                    "minecraft:custom_name": "\"薑貓\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -135,7 +135,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.cat.purreow",
-                    "minecraft:custom_name": "\"Siamese Cat\"",
+                    "minecraft:custom_name": "\"暹羅貓\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -172,7 +172,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.cat.beg_for_food",
-                    "minecraft:custom_name": "\"British Shorthair Cat\"",
+                    "minecraft:custom_name": "\"英國短毛貓\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -209,7 +209,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.cat.hiss",
-                    "minecraft:custom_name": "\"Calico Cat\"",
+                    "minecraft:custom_name": "\"印花布貓\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -246,7 +246,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.cat.hurt",
-                    "minecraft:custom_name": "\"Persian Cat\"",
+                    "minecraft:custom_name": "\"波斯貓\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -283,7 +283,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.cat.death",
-                    "minecraft:custom_name": "\"Ragdoll Cat\"",
+                    "minecraft:custom_name": "\"布偶貓\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -320,7 +320,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.cat.purr",
-                    "minecraft:custom_name": "\"White Cat\"",
+                    "minecraft:custom_name": "\"白貓\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -357,7 +357,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.cat.stray_ambient",
-                    "minecraft:custom_name": "\"Jellie Cat\"",
+                    "minecraft:custom_name": "\"果凍貓\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -394,7 +394,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.cat.hiss",
-                    "minecraft:custom_name": "\"Black Cat\"",
+                    "minecraft:custom_name": "\"黑貓\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [

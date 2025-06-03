@@ -22,7 +22,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.enderman.stare",
-                "minecraft:custom_name": "\"Enderman\"",
+                "minecraft:custom_name": "\"終界使者\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

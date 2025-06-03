@@ -77,7 +77,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.creaking.spawn",
-                "minecraft:custom_name": "\"Creaking\"",
+                "minecraft:custom_name": "\"吱吱作響\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [
@@ -125,7 +125,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.creaking.spawn",
-                "minecraft:custom_name": "\"Creaking\"",
+                "minecraft:custom_name": "\"吱吱作響\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

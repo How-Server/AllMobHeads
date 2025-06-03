@@ -22,7 +22,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.wither.ambient",
-                "minecraft:custom_name": "\"Wither\"",
+                "minecraft:custom_name": "\"凋零怪\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [
@@ -51,7 +51,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.wither.spawn",
-                "minecraft:custom_name": "\"Invulnerable Wither\"",
+                "minecraft:custom_name": "\"無敵凋零怪\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [
@@ -80,7 +80,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.wither.ambient",
-                "minecraft:custom_name": "\"Wither\"",
+                "minecraft:custom_name": "\"凋零怪\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [
@@ -109,7 +109,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.wither.spawn",
-                "minecraft:custom_name": "\"Invulnerable Wither\"",
+                "minecraft:custom_name": "\"無敵凋零怪\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

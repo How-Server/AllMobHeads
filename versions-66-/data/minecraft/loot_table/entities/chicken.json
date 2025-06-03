@@ -40,7 +40,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.chicken.ambient",
-                    "minecraft:custom_name": "\"Chicken\"",
+                    "minecraft:custom_name": "\"雞\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -78,7 +78,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.chicken.ambient",
-                    "minecraft:custom_name": "\"Cold Chicken\"",
+                    "minecraft:custom_name": "\"寒帶雞\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -116,7 +116,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.chicken.ambient",
-                    "minecraft:custom_name": "\"Warm Chicken\"",
+                    "minecraft:custom_name": "\"溫帶雞\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [

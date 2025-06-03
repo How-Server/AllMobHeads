@@ -22,7 +22,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.elder_guardian.curse",
-                "minecraft:custom_name": "\"Elder Guardian\"",
+                "minecraft:custom_name": "\"遠古深海守衛\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

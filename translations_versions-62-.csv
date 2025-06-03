@@ -1,0 +1,290 @@
+Type,Source,Original,Translation
+title,versions-62-/data/all_mob_heads/advancement/collection/passives.json,Passives,友好
+description,versions-62-/data/all_mob_heads/advancement/collection/passives.json,Passive Mob Heads Collection,友好生物頭顱系列
+title,versions-62-/data/all_mob_heads/advancement/collection/root.json,Heads Collection,生物頭顱收集
+description,versions-62-/data/all_mob_heads/advancement/collection/root.json,Collect Them All,全部收集
+title,versions-62-/data/all_mob_heads/advancement/collection/passives/pig.json,Pig,豬
+description,versions-62-/data/all_mob_heads/advancement/collection/passives/pig.json,0.1% with Looting I then + 1% per Looting,掠奪 I 為 0.1%，多一級掠奪 + 1%
+title,versions-62-/data/all_mob_heads/advancement/collection/passives/warm_pig.json,Warm Pig,溫帶豬
+description,versions-62-/data/all_mob_heads/advancement/collection/passives/warm_pig.json,0.1% with Looting I then + 1% per Looting,掠奪 I 為 0.1%，多一級掠奪 + 1%
+title,versions-62-/data/all_mob_heads/advancement/collection/passives/bat.json,Bat,蝙蝠
+description,versions-62-/data/all_mob_heads/advancement/collection/passives/bat.json,2% with Looting I then + 2% per Looting,掠奪 I 為 2%，多一級掠奪 + 2%
+title,versions-62-/data/all_mob_heads/advancement/collection/passives/cold_pig.json,Cold Pig,寒帶豬
+description,versions-62-/data/all_mob_heads/advancement/collection/passives/cold_pig.json,0.1% with Looting I then + 1% per Looting,掠奪 I 為 0.1%，多一級掠奪 + 1%
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/blocks/creaking_heart.json,Creaking,吱吱作響
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/blocks/creaking_heart.json,Creaking,吱吱作響
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/goat.json,Goat,山羊
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/pig.json,Pig,豬
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/pig.json,Cold Pig,寒帶豬
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/pig.json,Warm Pig,溫帶豬
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/elder_guardian.json,Elder Guardian,遠古深海守衛
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/wither.json,Wither,凋零怪
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/wither.json,Invulnerable Wither,無敵凋零怪
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/wither.json,Wither,凋零怪
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/wither.json,Invulnerable Wither,無敵凋零怪
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Armorer Villager,製甲師村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Desert Armorer Villager,沙漠製甲師村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Jungle Armorer Villager,叢林製甲師村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Savanna Armorer Villager,莽原製甲師村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Snow Armorer Villager,雪地製甲師村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Swamp Armorer Villager,沼澤盔甲師村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Taiga Armorer Villager,針葉林製甲師村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Butcher Villager,屠夫村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Desert Butcher Villager,沙漠屠夫村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Jungle Butcher Villager,叢林屠夫村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Savanna Butcher Villager,莽原屠夫村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Snow Butcher Villager,雪地屠夫村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Swamp Butcher Villager,沼澤屠夫村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Taiga Butcher Villager,針葉林屠夫村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Cartographer Villager,製圖師村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Desert Cartographer Villager,沙漠製圖師村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Jungle Cartographer Villager,叢林製圖師村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Savanna Cartographer Villager,莽原製圖師村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Snow Cartographer Villager,雪地製圖師村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Swamp Cartographer Villager,沼澤製圖師村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Taiga Cartographer Villager,針葉林製圖師村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Cleric Villager,神職人員村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Desert Cleric Villager,沙漠神職人員村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Jungle Cleric Villager,叢林神職人員村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Savanna Cleric Villager,莽原神職人員村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Snow Cleric Villager,雪地神職人員村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Swamp Cleric Villager,沼澤神職人員村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Taiga Cleric Villager,針葉林神職人員村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Farmer Villager,農夫村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Desert Farmer Villager,沙漠農夫村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Jungle Farmer Villager,叢林農夫村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Savanna Farmer Villager,莽原農夫村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Snow Farmer Villager,雪地農夫村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Swamp Farmer Villager,沼澤農夫村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Taiga Farmer Villager,針葉林農夫村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Fisherman Villager,漁民村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Desert Fisherman Villager,沙漠漁夫村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Jungle Fisherman Villager,叢林漁夫村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Savanna Fisherman Villager,莽原漁民村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Snow Fisherman Villager,雪地漁夫村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Swamp Fisherman Villager,沼澤漁民村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Taiga Fisherman Villager,針葉林漁民村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Fletcher Villager,製箭師村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Desert Fletcher Villager,沙漠製箭師村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Jungle Fletcher Villager,叢林製箭師村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Savanna Fletcher Villager,莽原製箭師村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Snow Fletcher Villager,雪地製箭師村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Swamp Fletcher Villager,沼澤製箭師村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Taiga Fletcher Villager,針葉林製箭師村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Leatherworker Villager,制皮匠村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Desert Leatherworker Villager,沙漠皮匠村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Jungle Leatherworker Villager,叢林制皮匠村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Savanna Leatherworker Villager,莽原皮革工人村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Snow Leatherworker Villager,雪地皮匠村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Swamp Leatherworker Villager,沼澤皮匠村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Taiga Leatherworker Villager,針葉林皮匠村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Librarian Villager,圖書管理員村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Desert Librarian Villager,沙漠圖書管理員村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Jungle Librarian Villager,叢林圖書管理員村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Savanna Librarian Villager,莽原圖書管理員村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Snow Librarian Villager,雪地圖書管理員村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Swamp Librarian Villager,沼澤圖書管理員村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Taiga Librarian Villager,針葉林圖書管理員村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Mason Villager,石匠村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Desert Mason Villager,沙漠石匠村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Jungle Mason Villager,叢林石匠村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Savanna Mason Villager,莽原石匠村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Snow Mason Villager,雪地石匠村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Swamp Mason Villager,沼澤石匠村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Taiga Mason Villager,針葉林石匠村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Nitwit Villager,傻子村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Desert Nitwit Villager,沙漠傻子村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Jungle Nitwit Villager,叢林傻子村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Savanna Nitwit Villager,莽原傻子村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Snow Nitwit Villager,雪地傻子村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Swamp Nitwit Villager,沼澤傻子村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Taiga Nitwit Villager,針葉林傻子村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Villager,村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Desert Villager,沙漠村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Jungle Villager,叢林村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Savanna Villager,莽原村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Snow Villager,雪地村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Swamp Villager,沼澤村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Taiga Villager,針葉林村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Shepherd Villager,牧羊人村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Desert Shepherd Villager,沙漠牧羊人村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Jungle Shepherd Villager,叢林牧羊人村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Savanna Shepherd Villager,莽原牧羊人村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Snow Shepherd Villager,雪地牧羊人村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Swamp Shepherd Villager,沼澤牧羊人村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Taiga Shepherd Villager,針葉林牧羊人村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Toolsmith Villager,工具匠村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Desert Toolsmith Villager,沙漠工具匠村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Jungle Toolsmith Villager,叢林工具匠村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Savanna Toolsmith Villager,莽原工具匠村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Snow Toolsmith Villager,雪地工具匠村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Swamp Toolsmith Villager,沼澤工具匠村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Taiga Toolsmith Villager,針葉林工具匠村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Weaponsmith Villager,武器匠村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Desert Weaponsmith Villager,沙漠武器匠村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Jungle Weaponsmith Villager,叢林武器匠村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Savanna Weaponsmith Villager,莽原武器匠村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Snow Weaponsmith Villager,雪地武器匠村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Swamp Weaponsmith Villager,沼澤武器匠村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/villager.json,Taiga Weaponsmith Villager,針葉林武器匠村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/donkey.json,Donkey,驢
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/drowned.json,Drowned,沉屍
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/chicken.json,Chicken,雞
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/axolotl.json,Axolotl Lucy,粉紅色蠑螈
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/axolotl.json,Axolotl Wild,棕色蠑螈
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/axolotl.json,Axolotl Gold,金色蠑螈
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/axolotl.json,Axolotl Cyan,青色蠑螈
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/axolotl.json,Axolotl Blue,藍色蠑螈
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/shulker.json,Shulker,界伏蚌
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/shulker.json,Red Shulker,紅色界伏蚌
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/shulker.json,Orange Shulker,橘色界伏蚌
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/shulker.json,Yellow Shulker,黃色界伏蚌
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/shulker.json,Lime Shulker,淺綠色伏蚌
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/shulker.json,Green Shulker,綠色界伏蚌
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/shulker.json,Blue Shulker,藍色界伏蚌
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/shulker.json,Cyan Shulker,青色界伏蚌
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/shulker.json,Light Blue Shulker,淺藍色界伏蚌
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/shulker.json,Pink Shulker,粉紅界伏蚌
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/shulker.json,Magenta Shulker,洋紅色界伏蚌
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/shulker.json,Purple Shulker,紫色界伏蚌
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/shulker.json,Brown Shulker,棕色界伏蚌
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/shulker.json,Black Shulker,黑色界伏蚌
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/shulker.json,Gray Shulker,灰色界伏蚌
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/shulker.json,Light Gray Shulker,淺灰色界伏蚌
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/shulker.json,White Shulker,白色界伏蚌
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/cat.json,Tabby Cat,虎斑貓
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/cat.json,Tuxedo Cat,燕尾服貓
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/cat.json,Ginger Cat,薑貓
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/cat.json,Siamese Cat,暹羅貓
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/cat.json,British Shorthair Cat,英國短毛貓
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/cat.json,Calico Cat,印花布貓
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/cat.json,Persian Cat,波斯貓
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/cat.json,Ragdoll Cat,布偶貓
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/cat.json,White Cat,白貓
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/cat.json,Jellie Cat,果凍貓
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/cat.json,Black Cat,黑貓
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/mule.json,Mule,騾子
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/polar_bear.json,Polar Bear,北極熊
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/salmon.json,Salmon,鮭魚
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/husk.json,Husk,屍殼
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/cow.json,Cow,乳牛
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/enderman.json,Enderman,終界使者
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/creeper.json,Charged Creeper,高壓苦力怕
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/allay.json,Allay,悅靈
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/bee.json,Bee,蜜蜂
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/bee.json,Bee Pollinated,授粉蜜蜂
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/bee.json,Bee Angry,憤怒蜜蜂
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/bee.json,Bee Pollinated Angry,憤怒授粉蜜蜂
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/slime.json,Slime,史萊姆
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/slime.json,Red Slime,紅色史萊姆
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/slime.json,Orange Slime,橘色史萊姆
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/slime.json,Yellow Slime,黃色史萊姆
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/slime.json,Lime Slime,淺綠色史萊姆
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/slime.json,Green Slime,綠色史萊姆
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/slime.json,Blue Slime,藍色史萊姆
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/slime.json,Cyan Slime,青色史萊姆
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/slime.json,Light Blue Slime,淺藍色史萊姆
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/slime.json,Pink Slime,粉紅色史萊姆
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/slime.json,Magenta Slime,洋紅色史萊姆
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/slime.json,Purple Slime,紫色史萊姆
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/slime.json,Brown Slime,棕色史萊姆
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/slime.json,Black Slime,黑史萊姆
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/slime.json,Gray Slime,灰史萊姆
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/slime.json,Light Gray Slime,淺灰色史萊姆
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/slime.json,White Slime,白色史萊姆
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/snow_golem.json,Snow Golem,雪人
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/snow_golem.json,Snowman,雪人
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/wandering_trader.json,Wandering Trader,流浪商人
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/iron_golem.json,Iron Golem,鐵魔像
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/phantom.json,Phantom,夜寐
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/spider.json,Spider,蜘蛛
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/parrot.json,Red Parrot,紅鸚鵡
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/parrot.json,Blue Parrot,藍鸚鵡
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/parrot.json,Green Parrot,綠鸚鵡
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/parrot.json,Cyan Parrot,青色鸚鵡
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/parrot.json,Gray Parrot,灰鸚鵡
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/silverfish.json,Silverfish,蠹魚
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/squid.json,Squid,魷魚
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/guardian.json,Guardian,深海守衛
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/mooshroom.json,Red Mooshroom,紅哞菇
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/mooshroom.json,Brown Mooshroom,棕色哞菇
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/bat.json,Bat,蝙蝠
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/blaze.json,Blaze,烈焰使者
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/rabbit.json,Toast,吐司
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/rabbit.json,Brown Rabbit,棕兔
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/rabbit.json,White Rabbit,白兔
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/rabbit.json,Black Rabbit,黑兔
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/rabbit.json,Black and White Rabbit,黑白兔
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/rabbit.json,Gold Rabbit,黃金兔
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/rabbit.json,Salt and Pepper Rabbit,椒鹽兔
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/rabbit.json,The Killer Bunny,殺手兔
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/potato/toxifin.json,Toxifin,毒素
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/potato/pig.json,Potato Pig,馬鈴薯豬
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/potato/villager.json,Potato Villager,馬鈴薯村民
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/potato/chicken.json,Potato Chicken,馬鈴薯雞
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/potato/husk.json,Potato Husk,馬鈴薯屍殼
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/potato/cow.json,Potato Cow,馬鈴薯牛
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/potato/enderman.json,Potato Enderman,馬鈴薯終界使者
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/potato/creeper.json,Potato Creeper,馬鈴薯苦力怕
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/potato/bee.json,Potato Bee,馬鈴薯蜜蜂
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/potato/slime.json,Potato Slime,馬鈴薯史萊姆
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/potato/sheep.json,Potato Sheep,馬鈴薯羊
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/potato/skeleton.json,Potato Skeleton,馬鈴薯骷髏
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/potato/spider.json,Potato Spider,馬鈴薯蜘蛛
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/potato/plaguewhale.json,Plaguewhale,Plaguewhale
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/potato/zombie.json,Potato Zombie,馬鈴薯殭屍
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/sheep/purple.json,Purple Sheep,紫羊
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/sheep/cyan.json,Cyan Sheep,青色羊
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/sheep/black.json,Black Sheep,黑羊
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/sheep/red.json,Red Sheep,紅羊
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/sheep/lime.json,Lime Sheep,淺綠色羊
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/sheep/orange.json,Orange Sheep,橘色羊
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/sheep/green.json,Green Sheep,綠羊
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/sheep/brown.json,Brown Sheep,棕羊
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/sheep/light_gray.json,Light Gray Sheep,淺灰色羊
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/sheep/blue.json,Blue Sheep,藍羊
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/sheep/yellow.json,Yellow Sheep,黃羊
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/sheep/jeb_sheep.json,Jeb_ Sheep,彩虹羊
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/sheep/white.json,White Sheep,牡羊
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/sheep/pink.json,Pink Sheep,粉紅羊
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/sheep/magenta.json,Magenta Sheep,洋紅色羊
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/sheep/light_blue.json,Light Blue Sheep,淺藍色羊
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/sheep/gray.json,Gray Sheep,灰羊
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/easter_egg/me_controller.json,ME Controller,ME Controller
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/easter_egg/darcodo.json,Darcodo,Darcodo
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/easter_egg/amethyst_pot.json,Pot Of Amethyst,一壺紫水晶
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/easter_egg/venom.json,Venom,Venom
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/easter_egg/orlox.json,Orlox,Orlox
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/easter_egg/maki.json,Maki,Maki
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/easter_egg/sushi.json,Sushi,壽司
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/easter_egg/coal_chan.json,Coal-Chan,Coal-Chan
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/easter_egg/guano.json,Pigeon,鴿子
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/easter_egg/tacowl.json,TacOwl,貓頭鷹
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/easter_egg/frozen.json,Frozen Blaze,冰凍烈焰
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/easter_egg/coconut.json,Coconut,可可豆
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/easter_egg/choco.json,Chocobo,陸行鳥
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/easter_egg/moobloom.json,Moobloom,Moobloom
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/easter_egg/sossur.json,Sossur,Sossur
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/easter_egg/974.json,TheFantasio974,TheFantasio974
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/easter_egg/thoyy.json,thoyy,thoyy
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/easter_egg/cheh.json,Cheh minot,Cheh minot
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/easter_egg/pikxee.json,Pikxee,Pikxee
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/easter_egg/maxtar.json,Maxtar,Maxtar
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/easter_egg/mrfexfull002.json,MrFexFull002,MrFexFull002
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/easter_egg/boiboite.json,Spruce Crate,Spruce Crate
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/easter_egg/aled.json,Nurse,護士
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/easter_egg/greenaxolotl.json,Axolotl Green,綠色蠑螈
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/easter_egg/ayr0b0t.json,ayr0b0t,ayr0b0t
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/easter_egg/unicorn.json,Unicorn Pet,獨角獸寵物
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/easter_egg/luma.json,Luma,Luma
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/easter_egg/claptrap.json,Claptrap,譁眾取寵
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/easter_egg/mew.json,Mew,喵喵
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/easter_egg/golden_allay.json,Golden Allay,黃金巷
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/easter_egg/bob.json,Boblennon,Boblennon
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/easter_egg/ahl.json,ahl,ahl
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/easter_egg/hermitcrab.json,Hermit Crab,寄居蟹
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/easter_egg/beer.json,Beer,啤酒
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/easter_egg/friendly_wither.json,The Pinkinator,The Pinkinator
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/easter_egg/fries.json,Fries,薯條
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/easter_egg/rayenryuu.json,Rayenryuu,Rayenryuu
+minecraft:custom_name,versions-62-/data/minecraft/loot_table/entities/easter_egg/milk.json,Milk Bucket,牛奶桶

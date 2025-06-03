@@ -13,7 +13,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.slime.jump",
-                "minecraft:custom_name": "\"Potato Slime\"",
+                "minecraft:custom_name": "\"馬鈴薯史萊姆\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

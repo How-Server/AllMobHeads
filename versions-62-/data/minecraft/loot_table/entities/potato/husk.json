@@ -13,7 +13,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.husk.ambient",
-                "minecraft:custom_name": "\"Potato Husk\"",
+                "minecraft:custom_name": "\"馬鈴薯屍殼\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

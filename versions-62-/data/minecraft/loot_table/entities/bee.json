@@ -51,7 +51,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.bee.loop",
-                    "minecraft:custom_name": "\"Bee\"",
+                    "minecraft:custom_name": "\"蜜蜂\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -88,7 +88,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.bee.loop",
-                    "minecraft:custom_name": "\"Bee Pollinated\"",
+                    "minecraft:custom_name": "\"授粉蜜蜂\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -125,7 +125,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.bee.loop_aggressive",
-                    "minecraft:custom_name": "\"Bee Angry\"",
+                    "minecraft:custom_name": "\"憤怒蜜蜂\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -172,7 +172,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.bee.loop_aggressive",
-                    "minecraft:custom_name": "\"Bee Pollinated Angry\"",
+                    "minecraft:custom_name": "\"憤怒授粉蜜蜂\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [

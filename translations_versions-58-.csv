@@ -1,0 +1,28 @@
+Type,Source,Original,Translation
+title,versions-58-/data/all_mob_heads/advancement/collection/hostiles.json,Hostiles,敵對生物
+description,versions-58-/data/all_mob_heads/advancement/collection/hostiles.json,Hostile Mob Heads Collection,敵對生物頭顱系列
+title,versions-58-/data/all_mob_heads/advancement/collection/root.json,Heads Collection,生物頭顱收集
+description,versions-58-/data/all_mob_heads/advancement/collection/root.json,Collect Them All,收集全部
+title,versions-58-/data/all_mob_heads/advancement/collection/hostiles/classics.json,Classics,經典
+description,versions-58-/data/all_mob_heads/advancement/collection/hostiles/classics.json,Classic Heads Collection,經典頭顱系列
+title,versions-58-/data/all_mob_heads/advancement/collection/hostiles/classics/creaking.json,吱吱作響,吱吱作響
+description,versions-58-/data/all_mob_heads/advancement/collection/hostiles/classics/creaking.json,"['藉由打破嘎吱之心而掉落。   ', '10% 天然生成或 0.5% 人工合成，必須是啟用狀態。","['藉由打破嘎吱之心而掉落。   ', '10% 天然生成或 0.5% 人工合成，必須是啟用狀態。"
+minecraft:custom_name,versions-58-/data/minecraft/loot_table/blocks/creaking_heart.json,吱吱作響,吱吱作響
+minecraft:custom_name,versions-58-/data/minecraft/loot_table/blocks/creaking_heart.json,吱吱作響,吱吱作響
+minecraft:custom_name,versions-58-/data/minecraft/loot_table/entities/sheep/purple.json,Purple Sheep,紫羊
+minecraft:custom_name,versions-58-/data/minecraft/loot_table/entities/sheep/cyan.json,Cyan Sheep,青色羊
+minecraft:custom_name,versions-58-/data/minecraft/loot_table/entities/sheep/black.json,Black Sheep,黑羊
+minecraft:custom_name,versions-58-/data/minecraft/loot_table/entities/sheep/red.json,Red Sheep,紅羊
+minecraft:custom_name,versions-58-/data/minecraft/loot_table/entities/sheep/lime.json,Lime Sheep,淺綠色羊
+minecraft:custom_name,versions-58-/data/minecraft/loot_table/entities/sheep/orange.json,Orange Sheep,橘色羊
+minecraft:custom_name,versions-58-/data/minecraft/loot_table/entities/sheep/green.json,Green Sheep,綠羊
+minecraft:custom_name,versions-58-/data/minecraft/loot_table/entities/sheep/brown.json,Brown Sheep,棕羊
+minecraft:custom_name,versions-58-/data/minecraft/loot_table/entities/sheep/light_gray.json,Light Gray Sheep,淺灰色羊
+minecraft:custom_name,versions-58-/data/minecraft/loot_table/entities/sheep/blue.json,Blue Sheep,藍羊
+minecraft:custom_name,versions-58-/data/minecraft/loot_table/entities/sheep/yellow.json,Yellow Sheep,黃羊
+minecraft:custom_name,versions-58-/data/minecraft/loot_table/entities/sheep/jeb_sheep.json,Jeb_ Sheep,彩虹羊
+minecraft:custom_name,versions-58-/data/minecraft/loot_table/entities/sheep/white.json,White Sheep,羊
+minecraft:custom_name,versions-58-/data/minecraft/loot_table/entities/sheep/pink.json,Pink Sheep,粉紅羊
+minecraft:custom_name,versions-58-/data/minecraft/loot_table/entities/sheep/magenta.json,Magenta Sheep,洋紅色羊
+minecraft:custom_name,versions-58-/data/minecraft/loot_table/entities/sheep/light_blue.json,Light Blue Sheep,淺藍色羊
+minecraft:custom_name,versions-58-/data/minecraft/loot_table/entities/sheep/gray.json,Gray Sheep,灰羊

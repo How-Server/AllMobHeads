@@ -40,7 +40,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.pig.ambient",
-                    "minecraft:custom_name": "\"Pig\"",
+                    "minecraft:custom_name": "\"豬\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -78,7 +78,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.pig.ambient",
-                    "minecraft:custom_name": "\"Cold Pig\"",
+                    "minecraft:custom_name": "\"寒帶豬\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -116,7 +116,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.pig.ambient",
-                    "minecraft:custom_name": "\"Warm Pig\"",
+                    "minecraft:custom_name": "\"溫帶豬\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [

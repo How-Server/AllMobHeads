@@ -40,7 +40,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.cow.ambient",
-                    "minecraft:custom_name": "\"Cow\"",
+                    "minecraft:custom_name": "\"牛\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -78,7 +78,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.cow.ambient",
-                    "minecraft:custom_name": "\"Cold Cow\"",
+                    "minecraft:custom_name": "\"寒帶牛\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -116,7 +116,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.cow.ambient",
-                    "minecraft:custom_name": "\"Warm Cow\"",
+                    "minecraft:custom_name": "\"溫帶牛\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [

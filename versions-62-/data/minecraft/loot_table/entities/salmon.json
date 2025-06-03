@@ -22,7 +22,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.salmon.death",
-                "minecraft:custom_name": "\"Salmon\"",
+                "minecraft:custom_name": "\"鮭魚\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

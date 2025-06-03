@@ -13,7 +13,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:item.lodestone_compass.lock",
-                "minecraft:custom_name": "\"Hermit Crab\"",
+                "minecraft:custom_name": "\"寄居蟹\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

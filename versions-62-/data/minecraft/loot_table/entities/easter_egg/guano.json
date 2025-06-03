@@ -13,7 +13,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:item.lodestone_compass.lock",
-                "minecraft:custom_name": "\"Pigeon\"",
+                "minecraft:custom_name": "\"鴿子\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [
