@@ -13,7 +13,7 @@
                             "function": "minecraft:set_components",
                             "components": {
                                 "minecraft:note_block_sound": "minecraft:entity.wither_skeleton.ambient",
-                                "minecraft:custom_name": "\"Red Skull\"",
+                                "minecraft:custom_name": "\"紅頭顱\"",
                                 "minecraft:profile": {
                                     "name": "",
                                     "id": [
@@ -43,7 +43,7 @@
                     "entity": "this",
                     "predicate": {
                         "nbt": {
-                            "CustomName": "red skull"
+                            "CustomName": "紅頭顱"
                         }
                     }
                 }

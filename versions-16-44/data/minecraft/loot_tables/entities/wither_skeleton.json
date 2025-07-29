@@ -22,7 +22,7 @@
                     "term": {
                         "condition": "entity_properties",
                         "predicate": {
-                            "nbt": "{CustomName:'\"red skull\"'}"
+                            "nbt": "{CustomName:'\"紅頭顱\"'}"
                         },
                         "entity": "this"
                     }
