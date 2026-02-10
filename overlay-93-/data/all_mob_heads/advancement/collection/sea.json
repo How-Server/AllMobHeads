@@ -3,8 +3,8 @@
     "icon": {
       "id": "minecraft:tube_coral"
     },
-    "title": "海洋生物",
-    "description": "生物頭顱收集",
+    "title": "海洋",
+    "description": "海洋生物頭顱系列",
     "announce_to_chat": true,
     "frame": "goal"
   },
