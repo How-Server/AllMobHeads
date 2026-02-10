@@ -1,0 +1,11 @@
+Type,Source,Original,Translation
+title,overlay-93-\data\all_mob_heads\advancement\collection\root.json,Heads Collection,生物頭顱收集
+description,overlay-93-\data\all_mob_heads\advancement\collection\root.json,Collect Them All,全部收集
+title,overlay-93-\data\all_mob_heads\advancement\collection\sea.json,Sea,海洋生物
+description,overlay-93-\data\all_mob_heads\advancement\collection\sea.json,Sea Mob Heads Collection,生物頭顱收集
+title,overlay-93-\data\all_mob_heads\advancement\collection\sea\nautilus.json,Nautilus,鸚鵡螺
+description,overlay-93-\data\all_mob_heads\advancement\collection\sea\nautilus.json,Nautilus Heads Collection,鸚鵡螺頭顱系列
+title,overlay-93-\data\all_mob_heads\advancement\collection\sea\nautilus\zombie_nautilus_coral.json,Zombie Nautilus Coral,珊瑚殭屍鸚鵡螺
+description,overlay-93-\data\all_mob_heads\advancement\collection\sea\nautilus\zombie_nautilus_coral.json,10% + 10% per looting,掠奪 I 為 10%，多一級掠奪 + 10%
+minecraft:custom_name,overlay-93-\data\minecraft\loot_table\entities\zombie_nautilus.json,Zombie Nautilus,殭屍鸚鵡螺
+minecraft:custom_name,overlay-93-\data\minecraft\loot_table\entities\zombie_nautilus.json,Zombie Nautilus Coral,珊瑚殭屍鸚鵡螺

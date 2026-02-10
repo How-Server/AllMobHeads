@@ -1,0 +1,13 @@
+Type,Source,Original,Translation
+title,overlay-92-\data\all_mob_heads\advancement\collection\hostiles.json,Hostiles,敵對生物
+description,overlay-92-\data\all_mob_heads\advancement\collection\hostiles.json,Hostile Mob Heads Collection,敵對生物頭顱系列
+title,overlay-92-\data\all_mob_heads\advancement\collection\root.json,Heads Collection,生物頭顱收集
+description,overlay-92-\data\all_mob_heads\advancement\collection\root.json,Collect Them All,全部收集
+title,overlay-92-\data\all_mob_heads\advancement\collection\hostiles\classics.json,Classics,經典生物
+description,overlay-92-\data\all_mob_heads\advancement\collection\hostiles\classics.json,Classic Heads Collection,經典生物頭顱系列
+title,overlay-92-\data\all_mob_heads\advancement\collection\hostiles\classics\camel_husk.json,Camel Husk,駱駝屍殼
+description,overlay-92-\data\all_mob_heads\advancement\collection\hostiles\classics\camel_husk.json,10% with Looting I then + 10% per Looting,掠奪 I 為 10%，多一級掠奪 + 10%
+title,overlay-92-\data\all_mob_heads\advancement\collection\hostiles\classics\parched.json,Parched,枯骸
+description,overlay-92-\data\all_mob_heads\advancement\collection\hostiles\classics\parched.json,10% with Looting I then + 10% per Looting,掠奪 I 為 10%，多一級掠奪 + 10%
+minecraft:custom_name,overlay-92-\data\minecraft\loot_table\entities\camel_husk.json,Camel Husk,駱駝屍殼
+minecraft:custom_name,overlay-92-\data\minecraft\loot_table\entities\parched.json,Parched,枯骸

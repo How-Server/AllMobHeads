@@ -40,7 +40,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_nautilus.ambient",
-                    "minecraft:custom_name": "\"Zombie Nautilus\"",
+                    "minecraft:custom_name": "\"殭屍鸚鵡螺\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [
@@ -78,7 +78,7 @@
                   "function": "minecraft:set_components",
                   "components": {
                     "minecraft:note_block_sound": "minecraft:entity.zombie_nautilus.ambient",
-                    "minecraft:custom_name": "\"Zombie Nautilus Coral\"",
+                    "minecraft:custom_name": "\"珊瑚殭屍鸚鵡螺\"",
                     "minecraft:profile": {
                       "name": "",
                       "id": [

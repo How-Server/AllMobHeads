@@ -22,7 +22,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.camel_husk.ambient",
-                "minecraft:custom_name": "\"Camel Husk\"",
+                "minecraft:custom_name": "\"駱駝屍殼\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

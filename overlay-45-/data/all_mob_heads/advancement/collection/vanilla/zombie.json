@@ -3,8 +3,8 @@
 		"icon": {
 			"id": "minecraft:zombie_head"
 		},
-		"title": "Zombie",
-		"description": "Obtained by Charged Creeper explosion",
+		"title": "殭屍",
+		"description": "透過高壓苦力怕爆炸獲得",
         "frame": "task",
         "announce_to_chat": false,
         "show_toast": true

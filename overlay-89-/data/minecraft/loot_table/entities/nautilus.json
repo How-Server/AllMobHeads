@@ -22,7 +22,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:note_block_sound": "minecraft:entity.nautilus.dash",
-                "minecraft:custom_name": "\"Nautilus\"",
+                "minecraft:custom_name": "\"鸚鵡螺\"",
                 "minecraft:profile": {
                   "name": "",
                   "id": [

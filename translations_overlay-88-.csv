@@ -1,0 +1,18 @@
+Type,Source,Original,Translation
+title,overlay-88-\data\all_mob_heads\advancement\collection\copper_golem.json,Copper Golem,銅魔像
+description,overlay-88-\data\all_mob_heads\advancement\collection\copper_golem.json,Copper Golem Mob Heads Collection,銅魔像頭顱系列
+title,overlay-88-\data\all_mob_heads\advancement\collection\root.json,Heads Collection,生物頭顱收集
+description,overlay-88-\data\all_mob_heads\advancement\collection\root.json,Collect Them All,全部收集
+title,overlay-88-\data\all_mob_heads\advancement\collection\copper_golem\copper_golem.json,Copper Golem,銅魔像
+description,overlay-88-\data\all_mob_heads\advancement\collection\copper_golem\copper_golem.json,10% with Looting I then + 10% per Looting,掠奪 I 為 10%，多一級掠奪 + 10%
+title,overlay-88-\data\all_mob_heads\advancement\collection\copper_golem\exposed_copper_golem.json,Exposed Copper Golem,斑駁的銅魔像
+description,overlay-88-\data\all_mob_heads\advancement\collection\copper_golem\exposed_copper_golem.json,10% with Looting I then + 10% per Looting,掠奪 I 為 10%，多一級掠奪 + 10%
+title,overlay-88-\data\all_mob_heads\advancement\collection\copper_golem\oxidized_copper_golem.json,Oxidized Copper Golem,氧化的銅魔像
+description,overlay-88-\data\all_mob_heads\advancement\collection\copper_golem\oxidized_copper_golem.json,10% with Looting I then + 10% per Looting,掠奪 I 為 10%，多一級掠奪 + 10%
+title,overlay-88-\data\all_mob_heads\advancement\collection\copper_golem\weathered_copper_golem.json,Weathered Copper Golem,風化的銅魔像
+description,overlay-88-\data\all_mob_heads\advancement\collection\copper_golem\weathered_copper_golem.json,10% with Looting I then + 10% per Looting,掠奪 I 為 10%，多一級掠奪 + 10%
+minecraft:custom_name,overlay-88-\data\all_mob_heads\loot_table\copper_golem.json,Golden Copper Golem,黃金銅魔像
+minecraft:custom_name,overlay-88-\data\minecraft\loot_table\entities\copper_golem.json,Copper Golem,銅魔像
+minecraft:custom_name,overlay-88-\data\minecraft\loot_table\entities\copper_golem.json,Exposed Copper Golem,斑駁的銅魔像
+minecraft:custom_name,overlay-88-\data\minecraft\loot_table\entities\copper_golem.json,Weathered Copper Golem,風化的銅魔像
+minecraft:custom_name,overlay-88-\data\minecraft\loot_table\entities\copper_golem.json,Oxidized Copper Golem,氧化的銅魔像

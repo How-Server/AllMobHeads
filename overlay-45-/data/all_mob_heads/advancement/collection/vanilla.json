@@ -3,8 +3,8 @@
 		"icon": {
 			"id": "minecraft:cherry_sapling"
 		},
-		"title": "Vanilla",
-		"description": "Vanilla Heads Collection",
+		"title": "原味",
+		"description": "原味頭顱系列",
         "announce_to_chat": true,
         "frame": "goal"
 	},
